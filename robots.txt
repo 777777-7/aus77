@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://777777-7.github.io/aus77/sitemap.xml
