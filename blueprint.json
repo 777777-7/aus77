@@ -1,30 +1,30 @@
 {
-  "generation_id": "2026-08-04T12:00:00Z_05335467a024",
+  "generation_id": "2026-08-05T10:00:00Z_c89c52cf7feb",
   "theme": {
-    "hue_seed": 255,
+    "hue_seed": 110,
     "bg_tone": "warm",
-    "radius": "subtle",
-    "shadow": "dramatic",
-    "spacing": "airy",
+    "radius": "generous",
+    "shadow": "soft",
+    "spacing": "regular",
     "typography": {
-      "heading_font": "Sora",
-      "body_font": "Sora",
+      "heading_font": "Rubik",
+      "body_font": "Rubik",
       "heading_weight": 700,
       "body_weight": 400,
       "heading_scale_ratio": 1.25
     },
-    "mood_label": "warm dramatic subtle"
+    "mood_label": "warm vibrant casino"
   },
   "navigation": {
     "order": [
       "home",
-      "title-5",
-      "title-2",
-      "title-1",
-      "title-3",
       "title-4",
+      "title-3",
+      "title-1",
+      "title-2",
       "title-6",
       "title-7",
+      "title-5",
       "blog"
     ],
     "style": "sticky-condensed"
@@ -44,27 +44,27 @@
       {
         "id": "sec-02-offers_stack",
         "component": "offers_stack",
-        "variant_notes": "count:6 identity-top"
+        "variant_notes": "count:7 identity-top"
       },
       {
-        "id": "sec-04-hero",
-        "component": "hero",
-        "variant_notes": "align:left accent middle"
+        "id": "sec-04-faq_accordion",
+        "component": "faq_accordion",
+        "variant_notes": "count:5"
       },
       {
-        "id": "sec-05-how_panel",
+        "id": "sec-05-guide_panels",
+        "component": "guide_panels",
+        "variant_notes": "count:7"
+      },
+      {
+        "id": "sec-06-how_panel",
         "component": "how_panel",
-        "variant_notes": "has_list:false"
-      },
-      {
-        "id": "sec-06-mini_grid",
-        "component": "mini_grid",
-        "variant_notes": "count:10 cols:3"
+        "variant_notes": "has_list:true"
       }
     ],
     "section_variants": {
       "hero": {
-        "align": "left",
+        "align": "center",
         "accent_word_position": "middle"
       },
       "home_long_seo": {},
@@ -72,123 +72,108 @@
         "rows": 5
       },
       "offers_stack": {
-        "count": 6,
+        "count": 7,
         "card_variant": "identity-top"
       },
       "mini_grid": {
-        "count": 10,
-        "cols": 3
+        "count": 12,
+        "cols": 4
       },
       "explore_banners": {
-        "count": 3
+        "count": 2
       },
       "how_panel": {
-        "has_list": false
+        "has_list": true
       },
       "guide_panels": {
-        "count": 8
+        "count": 7
       },
       "faq_accordion": {
-        "count": 7
+        "count": 5
       },
       "telegram_banner": {}
     },
     "seo": {
-      "meta_description": "[PLACEHOLDER-META] Discover the best online pokies australia with free chips australia, free spins no deposit and no deposit free credits via PayID. High RTP Megaways and Hold & Win titles await.",
-      "keywords": "[PLACEHOLDER-KEYWORD],[PLACEHOLDER-KEYWORD],[PLACEHOLDER-KEYWORD],[PLACEHOLDER-KEYWORD],[PLACEHOLDER-KEYWORD],[PLACEHOLDER-KEYWORD],[PLACEHOLDER-KEYWORD],[PLACEHOLDER-KEYWORD],[PLACEHOLDER-KEYWORD],[PLACEHOLDER-KEYWORD],[PLACEHOLDER-KEYWORD],[PLACEHOLDER-KEYWORD]",
-      "og_title": "[PLACEHOLDER-OG-TITLE] Free Chips Australia 2026",
-      "og_description": "[PLACEHOLDER-OG-DESC] Claim no deposit free credits and free spins no deposit on high RTP Megaways slots. PayID instant deposits.",
+      "meta_description": "[PLACEHOLDER-META] Warm-dark casino affiliate portal offering free chips australia, free spins no deposit, no deposit free credits and high RTP online pokies australia via PayID.",
+      "keywords": "[PLACEHOLDER-KEYWORD], free chips australia, free spins no deposit, no deposit free credits, online pokies australia, PayID, high RTP, Megaways, Hold & Win",
+      "og_title": "[PLACEHOLDER-OG-TITLE] Warm Dark Casino Portal",
+      "og_description": "[PLACEHOLDER-OG-DESC] Discover free chips australia, free spins no deposit and no deposit free credits across high RTP online pokies australia.",
       "og_image": "assets/og-home.jpg"
     }
   },
   "category_pages": [
     {
-      "slug": "title-5",
-      "label": "Title 5",
+      "slug": "title-4",
+      "label": "Title 4",
       "layout": "L_HeroOffersFAQGuide",
-      "offers_count": 6,
-      "guide_count": 10,
-      "faq_count": 4,
+      "offers_count": 7,
+      "guide_count": 7,
+      "faq_count": 5,
       "seo": {
-        "meta_description": "[PLACEHOLDER-META] Title 5 offers free chips australia and free spins no deposit. PayID withdrawals and high RTP Megaways.",
-        "keywords": "[PLACEHOLDER-KEYWORD],[PLACEHOLDER-KEYWORD],[PLACEHOLDER-KEYWORD],[PLACEHOLDER-KEYWORD],[PLACEHOLDER-KEYWORD],[PLACEHOLDER-KEYWORD],[PLACEHOLDER-KEYWORD],[PLACEHOLDER-KEYWORD],[PLACEHOLDER-KEYWORD],[PLACEHOLDER-KEYWORD],[PLACEHOLDER-KEYWORD],[PLACEHOLDER-KEYWORD]",
-        "og_title": "[PLACEHOLDER-OG-TITLE] Title 5",
-        "og_description": "[PLACEHOLDER-OG-DESC] Grab no deposit free credits on online pokies australia with PayID.",
-        "og_image": "assets/og-title-5.jpg"
-      }
-    },
-    {
-      "slug": "title-2",
-      "label": "Title 2",
-      "layout": "L_HeroOffersFAQGuide",
-      "offers_count": 6,
-      "guide_count": 10,
-      "faq_count": 4,
-      "seo": {
-        "meta_description": "[PLACEHOLDER-META] Title 2 delivers free spins no deposit and free chips australia. Hold & Win and high RTP slots.",
-        "keywords": "[PLACEHOLDER-KEYWORD],[PLACEHOLDER-KEYWORD],[PLACEHOLDER-KEYWORD],[PLACEHOLDER-KEYWORD],[PLACEHOLDER-KEYWORD],[PLACEHOLDER-KEYWORD],[PLACEHOLDER-KEYWORD],[PLACEHOLDER-KEYWORD],[PLACEHOLDER-KEYWORD],[PLACEHOLDER-KEYWORD],[PLACEHOLDER-KEYWORD],[PLACEHOLDER-KEYWORD]",
-        "og_title": "[PLACEHOLDER-OG-TITLE] Title 2",
-        "og_description": "[PLACEHOLDER-OG-DESC] No deposit free credits and PayID on Megaways pokies.",
-        "og_image": "assets/og-title-2.jpg"
-      }
-    },
-    {
-      "slug": "title-1",
-      "label": "Title 1",
-      "layout": "L_HeroOffersFAQGuide",
-      "offers_count": 6,
-      "guide_count": 10,
-      "faq_count": 4,
-      "seo": {
-        "meta_description": "[PLACEHOLDER-META] Title 1 free chips australia, free spins no deposit, no deposit free credits. High RTP online pokies australia.",
-        "keywords": "[PLACEHOLDER-KEYWORD],[PLACEHOLDER-KEYWORD],[PLACEHOLDER-KEYWORD],[PLACEHOLDER-KEYWORD],[PLACEHOLDER-KEYWORD],[PLACEHOLDER-KEYWORD],[PLACEHOLDER-KEYWORD],[PLACEHOLDER-KEYWORD],[PLACEHOLDER-KEYWORD],[PLACEHOLDER-KEYWORD],[PLACEHOLDER-KEYWORD],[PLACEHOLDER-KEYWORD]",
-        "og_title": "[PLACEHOLDER-OG-TITLE] Title 1",
-        "og_description": "[PLACEHOLDER-OG-DESC] PayID and Megaways Hold & Win bonuses.",
-        "og_image": "assets/og-title-1.jpg"
+        "meta_description": "[PLACEHOLDER-META] Explore Title 4 offers featuring free chips australia, free spins no deposit and high RTP pokies.",
+        "keywords": "[PLACEHOLDER-KEYWORD], free chips australia, free spins no deposit, no deposit free credits, online pokies australia, PayID",
+        "og_title": "[PLACEHOLDER-OG-TITLE] Title 4 Offers",
+        "og_description": "[PLACEHOLDER-OG-DESC] Find free spins no deposit and no deposit free credits in Title 4 high RTP games.",
+        "og_image": "assets/og-title-4.jpg"
       }
     },
     {
       "slug": "title-3",
       "label": "Title 3",
       "layout": "L_HeroOffersFAQGuide",
-      "offers_count": 6,
-      "guide_count": 10,
-      "faq_count": 4,
+      "offers_count": 7,
+      "guide_count": 7,
+      "faq_count": 5,
       "seo": {
-        "meta_description": "[PLACEHOLDER-META] Title 3 offers free chips australia and free spins no deposit via PayID. High RTP slots.",
-        "keywords": "[PLACEHOLDER-KEYWORD],[PLACEHOLDER-KEYWORD],[PLACEHOLDER-KEYWORD],[PLACEHOLDER-KEYWORD],[PLACEHOLDER-KEYWORD],[PLACEHOLDER-KEYWORD],[PLACEHOLDER-KEYWORD],[PLACEHOLDER-KEYWORD],[PLACEHOLDER-KEYWORD],[PLACEHOLDER-KEYWORD],[PLACEHOLDER-KEYWORD],[PLACEHOLDER-KEYWORD]",
-        "og_title": "[PLACEHOLDER-OG-TITLE] Title 3",
-        "og_description": "[PLACEHOLDER-OG-DESC] No deposit free credits on online pokies australia.",
+        "meta_description": "[PLACEHOLDER-META] Discover Title 3 deals with free chips australia, no deposit free credits and Megaways pokies.",
+        "keywords": "[PLACEHOLDER-KEYWORD], free chips australia, free spins no deposit, no deposit free credits, online pokies australia",
+        "og_title": "[PLACEHOLDER-OG-TITLE] Title 3 Deals",
+        "og_description": "[PLACEHOLDER-OG-DESC] Claim free chips australia and high RTP online pokies australia via PayID.",
         "og_image": "assets/og-title-3.jpg"
       }
     },
     {
-      "slug": "title-4",
-      "label": "Title 4",
+      "slug": "title-1",
+      "label": "Title 1",
       "layout": "L_HeroOffersFAQGuide",
-      "offers_count": 6,
-      "guide_count": 10,
-      "faq_count": 4,
+      "offers_count": 7,
+      "guide_count": 7,
+      "faq_count": 5,
       "seo": {
-        "meta_description": "[PLACEHOLDER-META] Title 4 free spins no deposit, free chips australia, high RTP Megaways.",
-        "keywords": "[PLACEHOLDER-KEYWORD],[PLACEHOLDER-KEYWORD],[PLACEHOLDER-KEYWORD],[PLACEHOLDER-KEYWORD],[PLACEHOLDER-KEYWORD],[PLACEHOLDER-KEYWORD],[PLACEHOLDER-KEYWORD],[PLACEHOLDER-KEYWORD],[PLACEHOLDER-KEYWORD],[PLACEHOLDER-KEYWORD],[PLACEHOLDER-KEYWORD],[PLACEHOLDER-KEYWORD]",
-        "og_title": "[PLACEHOLDER-OG-TITLE] Title 4",
-        "og_description": "[PLACEHOLDER-OG-DESC] PayID and Hold & Win no deposit free credits.",
-        "og_image": "assets/og-title-4.jpg"
+        "meta_description": "[PLACEHOLDER-META] Access Title 1 promotions including free spins no deposit and Hold & Win bonuses.",
+        "keywords": "[PLACEHOLDER-KEYWORD], free chips australia, free spins no deposit, no deposit free credits, online pokies australia, PayID",
+        "og_title": "[PLACEHOLDER-OG-TITLE] Title 1 Promotions",
+        "og_description": "[PLACEHOLDER-OG-DESC] Grab no deposit free credits and Megaways online pokies australia instantly.",
+        "og_image": "assets/og-title-1.jpg"
+      }
+    },
+    {
+      "slug": "title-2",
+      "label": "Title 2",
+      "layout": "L_HeroOffersFAQGuide",
+      "offers_count": 7,
+      "guide_count": 7,
+      "faq_count": 5,
+      "seo": {
+        "meta_description": "[PLACEHOLDER-META] Browse Title 2 offers packed with free chips australia and high RTP pokies.",
+        "keywords": "[PLACEHOLDER-KEYWORD], free chips australia, free spins no deposit, no deposit free credits, online pokies australia",
+        "og_title": "[PLACEHOLDER-OG-TITLE] Title 2 Offers",
+        "og_description": "[PLACEHOLDER-OG-DESC] Enjoy free spins no deposit and PayID powered online pokies australia.",
+        "og_image": "assets/og-title-2.jpg"
       }
     },
     {
       "slug": "title-6",
       "label": "Title 6",
       "layout": "L_HeroOffersFAQGuide",
-      "offers_count": 6,
-      "guide_count": 10,
-      "faq_count": 4,
+      "offers_count": 7,
+      "guide_count": 7,
+      "faq_count": 5,
       "seo": {
-        "meta_description": "[PLACEHOLDER-META] Title 6 offers free chips australia and free spins no deposit on high RTP pokies.",
-        "keywords": "[PLACEHOLDER-KEYWORD],[PLACEHOLDER-KEYWORD],[PLACEHOLDER-KEYWORD],[PLACEHOLDER-KEYWORD],[PLACEHOLDER-KEYWORD],[PLACEHOLDER-KEYWORD],[PLACEHOLDER-KEYWORD],[PLACEHOLDER-KEYWORD],[PLACEHOLDER-KEYWORD],[PLACEHOLDER-KEYWORD],[PLACEHOLDER-KEYWORD],[PLACEHOLDER-KEYWORD]",
-        "og_title": "[PLACEHOLDER-OG-TITLE] Title 6",
-        "og_description": "[PLACEHOLDER-OG-DESC] No deposit free credits PayID Megaways.",
+        "meta_description": "[PLACEHOLDER-META] Unlock Title 6 bonuses with no deposit free credits, Megaways and Hold & Win.",
+        "keywords": "[PLACEHOLDER-KEYWORD], free chips australia, free spins no deposit, no deposit free credits, online pokies australia, PayID",
+        "og_title": "[PLACEHOLDER-OG-TITLE] Title 6 Bonuses",
+        "og_description": "[PLACEHOLDER-OG-DESC] Claim free chips australia and high RTP online pokies australia now.",
         "og_image": "assets/og-title-6.jpg"
       }
     },
@@ -196,21 +181,36 @@
       "slug": "title-7",
       "label": "Title 7",
       "layout": "L_HeroOffersFAQGuide",
-      "offers_count": 6,
-      "guide_count": 10,
-      "faq_count": 4,
+      "offers_count": 7,
+      "guide_count": 7,
+      "faq_count": 5,
       "seo": {
-        "meta_description": "[PLACEHOLDER-META] Title 7 free spins no deposit, free chips australia, online pokies australia PayID.",
-        "keywords": "[PLACEHOLDER-KEYWORD],[PLACEHOLDER-KEYWORD],[PLACEHOLDER-KEYWORD],[PLACEHOLDER-KEYWORD],[PLACEHOLDER-KEYWORD],[PLACEHOLDER-KEYWORD],[PLACEHOLDER-KEYWORD],[PLACEHOLDER-KEYWORD],[PLACEHOLDER-KEYWORD],[PLACEHOLDER-KEYWORD],[PLACEHOLDER-KEYWORD],[PLACEHOLDER-KEYWORD]",
-        "og_title": "[PLACEHOLDER-OG-TITLE] Title 7",
-        "og_description": "[PLACEHOLDER-OG-DESC] High RTP Hold & Win no deposit free credits.",
+        "meta_description": "[PLACEHOLDER-META] Review Title 7 free spins no deposit and PayID online pokies australia.",
+        "keywords": "[PLACEHOLDER-KEYWORD], free chips australia, free spins no deposit, no deposit free credits, online pokies australia",
+        "og_title": "[PLACEHOLDER-OG-TITLE] Title 7 Reviews",
+        "og_description": "[PLACEHOLDER-OG-DESC] Play high RTP Megaways and Hold & Win with no deposit free credits.",
         "og_image": "assets/og-title-7.jpg"
+      }
+    },
+    {
+      "slug": "title-5",
+      "label": "Title 5",
+      "layout": "L_HeroOffersFAQGuide",
+      "offers_count": 7,
+      "guide_count": 7,
+      "faq_count": 5,
+      "seo": {
+        "meta_description": "[PLACEHOLDER-META] Find Title 5 free chips australia, free spins no deposit and high RTP pokies.",
+        "keywords": "[PLACEHOLDER-KEYWORD], free chips australia, free spins no deposit, no deposit free credits, online pokies australia, PayID",
+        "og_title": "[PLACEHOLDER-OG-TITLE] Title 5 Finds",
+        "og_description": "[PLACEHOLDER-OG-DESC] Access no deposit free credits and Megaways online pokies australia via PayID.",
+        "og_image": "assets/og-title-5.jpg"
       }
     }
   ],
   "blog": {
-    "layout": "L_CardGrid_2col",
-    "sidebar": true,
+    "layout": "L_CardGrid_3col",
+    "sidebar": false,
     "featured": true,
     "pagination": "load-more",
     "show_filter": true,
@@ -243,10 +243,10 @@
         "label": "Topic 1",
         "topic": "topic-1",
         "seo": {
-          "meta_description": "[PLACEHOLDER-META] Topic 1 covers free chips australia and free spins no deposit.",
-          "keywords": "[PLACEHOLDER-KEYWORD],[PLACEHOLDER-KEYWORD],[PLACEHOLDER-KEYWORD],[PLACEHOLDER-KEYWORD],[PLACEHOLDER-KEYWORD],[PLACEHOLDER-KEYWORD],[PLACEHOLDER-KEYWORD],[PLACEHOLDER-KEYWORD],[PLACEHOLDER-KEYWORD],[PLACEHOLDER-KEYWORD],[PLACEHOLDER-KEYWORD],[PLACEHOLDER-KEYWORD]",
-          "og_title": "[PLACEHOLDER-OG-TITLE] Topic 1",
-          "og_description": "[PLACEHOLDER-OG-DESC] No deposit free credits PayID high RTP.",
+          "meta_description": "[PLACEHOLDER-META] Topic 1 hub covering free chips australia and high RTP pokies.",
+          "keywords": "[PLACEHOLDER-KEYWORD], free chips australia, free spins no deposit, no deposit free credits",
+          "og_title": "[PLACEHOLDER-OG-TITLE] Topic 1 Hub",
+          "og_description": "[PLACEHOLDER-OG-DESC] Explore Topic 1 with free spins no deposit and PayID pokies.",
           "og_image": "assets/og-blog-topic-1.jpg"
         }
       },
@@ -255,10 +255,10 @@
         "label": "Topic 2",
         "topic": "topic-2",
         "seo": {
-          "meta_description": "[PLACEHOLDER-META] Topic 2 reviews Megaways and Hold & Win slots.",
-          "keywords": "[PLACEHOLDER-KEYWORD],[PLACEHOLDER-KEYWORD],[PLACEHOLDER-KEYWORD],[PLACEHOLDER-KEYWORD],[PLACEHOLDER-KEYWORD],[PLACEHOLDER-KEYWORD],[PLACEHOLDER-KEYWORD],[PLACEHOLDER-KEYWORD],[PLACEHOLDER-KEYWORD],[PLACEHOLDER-KEYWORD],[PLACEHOLDER-KEYWORD],[PLACEHOLDER-KEYWORD]",
-          "og_title": "[PLACEHOLDER-OG-TITLE] Topic 2",
-          "og_description": "[PLACEHOLDER-OG-DESC] Free spins no deposit on online pokies australia.",
+          "meta_description": "[PLACEHOLDER-META] Topic 2 hub for free spins no deposit and Megaways games.",
+          "keywords": "[PLACEHOLDER-KEYWORD], free chips australia, free spins no deposit, no deposit free credits",
+          "og_title": "[PLACEHOLDER-OG-TITLE] Topic 2 Hub",
+          "og_description": "[PLACEHOLDER-OG-DESC] Read Topic 2 updates on no deposit free credits and online pokies australia.",
           "og_image": "assets/og-blog-topic-2.jpg"
         }
       },
@@ -267,10 +267,10 @@
         "label": "Topic 3",
         "topic": "topic-3",
         "seo": {
-          "meta_description": "[PLACEHOLDER-META] Topic 3 PayID no deposit free credits.",
-          "keywords": "[PLACEHOLDER-KEYWORD],[PLACEHOLDER-KEYWORD],[PLACEHOLDER-KEYWORD],[PLACEHOLDER-KEYWORD],[PLACEHOLDER-KEYWORD],[PLACEHOLDER-KEYWORD],[PLACEHOLDER-KEYWORD],[PLACEHOLDER-KEYWORD],[PLACEHOLDER-KEYWORD],[PLACEHOLDER-KEYWORD],[PLACEHOLDER-KEYWORD],[PLACEHOLDER-KEYWORD]",
-          "og_title": "[PLACEHOLDER-OG-TITLE] Topic 3",
-          "og_description": "[PLACEHOLDER-OG-DESC] High RTP free chips australia.",
+          "meta_description": "[PLACEHOLDER-META] Topic 3 hub focused on no deposit free credits and high RTP slots.",
+          "keywords": "[PLACEHOLDER-KEYWORD], free chips australia, free spins no deposit, no deposit free credits",
+          "og_title": "[PLACEHOLDER-OG-TITLE] Topic 3 Hub",
+          "og_description": "[PLACEHOLDER-OG-DESC] Discover Topic 3 guides to free chips australia and Hold & Win.",
           "og_image": "assets/og-blog-topic-3.jpg"
         }
       },
@@ -279,10 +279,10 @@
         "label": "Topic 4",
         "topic": "topic-4",
         "seo": {
-          "meta_description": "[PLACEHOLDER-META] Topic 4 Megaways Hold & Win bonuses.",
-          "keywords": "[PLACEHOLDER-KEYWORD],[PLACEHOLDER-KEYWORD],[PLACEHOLDER-KEYWORD],[PLACEHOLDER-KEYWORD],[PLACEHOLDER-KEYWORD],[PLACEHOLDER-KEYWORD],[PLACEHOLDER-KEYWORD],[PLACEHOLDER-KEYWORD],[PLACEHOLDER-KEYWORD],[PLACEHOLDER-KEYWORD],[PLACEHOLDER-KEYWORD],[PLACEHOLDER-KEYWORD]",
-          "og_title": "[PLACEHOLDER-OG-TITLE] Topic 4",
-          "og_description": "[PLACEHOLDER-OG-DESC] Free spins no deposit PayID.",
+          "meta_description": "[PLACEHOLDER-META] Topic 4 hub about free chips australia and PayID pokies.",
+          "keywords": "[PLACEHOLDER-KEYWORD], free chips australia, free spins no deposit, no deposit free credits",
+          "og_title": "[PLACEHOLDER-OG-TITLE] Topic 4 Hub",
+          "og_description": "[PLACEHOLDER-OG-DESC] Browse Topic 4 with high RTP online pokies australia and Megaways.",
           "og_image": "assets/og-blog-topic-4.jpg"
         }
       },
@@ -291,10 +291,10 @@
         "label": "Topic 5",
         "topic": "topic-5",
         "seo": {
-          "meta_description": "[PLACEHOLDER-META] Topic 5 online pokies australia free chips.",
-          "keywords": "[PLACEHOLDER-KEYWORD],[PLACEHOLDER-KEYWORD],[PLACEHOLDER-KEYWORD],[PLACEHOLDER-KEYWORD],[PLACEHOLDER-KEYWORD],[PLACEHOLDER-KEYWORD],[PLACEHOLDER-KEYWORD],[PLACEHOLDER-KEYWORD],[PLACEHOLDER-KEYWORD],[PLACEHOLDER-KEYWORD],[PLACEHOLDER-KEYWORD],[PLACEHOLDER-KEYWORD]",
-          "og_title": "[PLACEHOLDER-OG-TITLE] Topic 5",
-          "og_description": "[PLACEHOLDER-OG-DESC] No deposit free credits high RTP.",
+          "meta_description": "[PLACEHOLDER-META] Topic 5 hub for free spins no deposit and Hold & Win bonuses.",
+          "keywords": "[PLACEHOLDER-KEYWORD], free chips australia, free spins no deposit, no deposit free credits",
+          "og_title": "[PLACEHOLDER-OG-TITLE] Topic 5 Hub",
+          "og_description": "[PLACEHOLDER-OG-DESC] Access Topic 5 articles on free chips australia and PayID slots.",
           "og_image": "assets/og-blog-topic-5.jpg"
         }
       }
@@ -305,14 +305,14 @@
         "label": "Blog Post 1",
         "topic": "topic-1",
         "topic_label": "Topic 1",
-        "date": "2026-07-15",
+        "date": "2026-07-10",
         "read_minutes": 5,
-        "excerpt": "[PLACEHOLDER-EXCERPT] Free chips australia and free spins no deposit options.",
+        "excerpt": "[PLACEHOLDER-EXCERPT] Quick look at free chips australia offers and high RTP pokies.",
         "seo": {
-          "meta_description": "[PLACEHOLDER-META] Blog Post 1 free chips australia tips.",
-          "keywords": "[PLACEHOLDER-KEYWORD],[PLACEHOLDER-KEYWORD],[PLACEHOLDER-KEYWORD],[PLACEHOLDER-KEYWORD],[PLACEHOLDER-KEYWORD],[PLACEHOLDER-KEYWORD],[PLACEHOLDER-KEYWORD],[PLACEHOLDER-KEYWORD],[PLACEHOLDER-KEYWORD],[PLACEHOLDER-KEYWORD],[PLACEHOLDER-KEYWORD],[PLACEHOLDER-KEYWORD]",
+          "meta_description": "[PLACEHOLDER-META] Blog Post 1 covers free chips australia and no deposit free credits.",
+          "keywords": "[PLACEHOLDER-KEYWORD], free chips australia, free spins no deposit",
           "og_title": "[PLACEHOLDER-OG-TITLE] Blog Post 1",
-          "og_description": "[PLACEHOLDER-OG-DESC] No deposit free credits PayID.",
+          "og_description": "[PLACEHOLDER-OG-DESC] Read about free spins no deposit in Blog Post 1.",
           "og_image": "assets/og-blog-post-1.jpg",
           "article_headline": "[PLACEHOLDER-H1] Blog Post 1"
         }
@@ -322,14 +322,14 @@
         "label": "Blog Post 2",
         "topic": "topic-2",
         "topic_label": "Topic 2",
-        "date": "2026-07-18",
+        "date": "2026-07-12",
         "read_minutes": 4,
-        "excerpt": "[PLACEHOLDER-EXCERPT] High RTP Megaways slots guide.",
+        "excerpt": "[PLACEHOLDER-EXCERPT] Tips on free spins no deposit bonuses for Megaways.",
         "seo": {
-          "meta_description": "[PLACEHOLDER-META] Blog Post 2 Megaways review.",
-          "keywords": "[PLACEHOLDER-KEYWORD],[PLACEHOLDER-KEYWORD],[PLACEHOLDER-KEYWORD],[PLACEHOLDER-KEYWORD],[PLACEHOLDER-KEYWORD],[PLACEHOLDER-KEYWORD],[PLACEHOLDER-KEYWORD],[PLACEHOLDER-KEYWORD],[PLACEHOLDER-KEYWORD],[PLACEHOLDER-KEYWORD],[PLACEHOLDER-KEYWORD],[PLACEHOLDER-KEYWORD]",
+          "meta_description": "[PLACEHOLDER-META] Blog Post 2 reviews free spins no deposit options.",
+          "keywords": "[PLACEHOLDER-KEYWORD], free spins no deposit, online pokies australia",
           "og_title": "[PLACEHOLDER-OG-TITLE] Blog Post 2",
-          "og_description": "[PLACEHOLDER-OG-DESC] Free spins no deposit.",
+          "og_description": "[PLACEHOLDER-OG-DESC] Learn about high RTP pokies in Blog Post 2.",
           "og_image": "assets/og-blog-post-2.jpg",
           "article_headline": "[PLACEHOLDER-H1] Blog Post 2"
         }
@@ -339,14 +339,14 @@
         "label": "Blog Post 3",
         "topic": "topic-3",
         "topic_label": "Topic 3",
-        "date": "2026-07-20",
+        "date": "2026-07-15",
         "read_minutes": 6,
-        "excerpt": "[PLACEHOLDER-EXCERPT] PayID no deposit free credits.",
+        "excerpt": "[PLACEHOLDER-EXCERPT] Guide to no deposit free credits and PayID deposits.",
         "seo": {
-          "meta_description": "[PLACEHOLDER-META] Blog Post 3 PayID guide.",
-          "keywords": "[PLACEHOLDER-KEYWORD],[PLACEHOLDER-KEYWORD],[PLACEHOLDER-KEYWORD],[PLACEHOLDER-KEYWORD],[PLACEHOLDER-KEYWORD],[PLACEHOLDER-KEYWORD],[PLACEHOLDER-KEYWORD],[PLACEHOLDER-KEYWORD],[PLACEHOLDER-KEYWORD],[PLACEHOLDER-KEYWORD],[PLACEHOLDER-KEYWORD],[PLACEHOLDER-KEYWORD]",
+          "meta_description": "[PLACEHOLDER-META] Blog Post 3 explains no deposit free credits.",
+          "keywords": "[PLACEHOLDER-KEYWORD], no deposit free credits, PayID",
           "og_title": "[PLACEHOLDER-OG-TITLE] Blog Post 3",
-          "og_description": "[PLACEHOLDER-OG-DESC] Free chips australia.",
+          "og_description": "[PLACEHOLDER-OG-DESC] Explore Megaways in Blog Post 3.",
           "og_image": "assets/og-blog-post-3.jpg",
           "article_headline": "[PLACEHOLDER-H1] Blog Post 3"
         }
@@ -356,14 +356,14 @@
         "label": "Blog Post 4",
         "topic": "topic-4",
         "topic_label": "Topic 4",
-        "date": "2026-07-22",
+        "date": "2026-07-18",
         "read_minutes": 3,
-        "excerpt": "[PLACEHOLDER-EXCERPT] Hold & Win bonuses explained.",
+        "excerpt": "[PLACEHOLDER-EXCERPT] Overview of Hold & Win features in current slots.",
         "seo": {
-          "meta_description": "[PLACEHOLDER-META] Blog Post 4 Hold & Win.",
-          "keywords": "[PLACEHOLDER-KEYWORD],[PLACEHOLDER-KEYWORD],[PLACEHOLDER-KEYWORD],[PLACEHOLDER-KEYWORD],[PLACEHOLDER-KEYWORD],[PLACEHOLDER-KEYWORD],[PLACEHOLDER-KEYWORD],[PLACEHOLDER-KEYWORD],[PLACEHOLDER-KEYWORD],[PLACEHOLDER-KEYWORD],[PLACEHOLDER-KEYWORD],[PLACEHOLDER-KEYWORD]",
+          "meta_description": "[PLACEHOLDER-META] Blog Post 4 discusses Hold & Win mechanics.",
+          "keywords": "[PLACEHOLDER-KEYWORD], Hold & Win, high RTP",
           "og_title": "[PLACEHOLDER-OG-TITLE] Blog Post 4",
-          "og_description": "[PLACEHOLDER-OG-DESC] Free spins no deposit.",
+          "og_description": "[PLACEHOLDER-OG-DESC] Find free chips australia in Blog Post 4.",
           "og_image": "assets/og-blog-post-4.jpg",
           "article_headline": "[PLACEHOLDER-H1] Blog Post 4"
         }
@@ -373,14 +373,14 @@
         "label": "Blog Post 5",
         "topic": "topic-5",
         "topic_label": "Topic 5",
-        "date": "2026-07-25",
+        "date": "2026-07-20",
         "read_minutes": 7,
-        "excerpt": "[PLACEHOLDER-EXCERPT] Online pokies australia RTP list.",
+        "excerpt": "[PLACEHOLDER-EXCERPT] Comparison of online pokies australia PayID casinos.",
         "seo": {
-          "meta_description": "[PLACEHOLDER-META] Blog Post 5 pokies RTP.",
-          "keywords": "[PLACEHOLDER-KEYWORD],[PLACEHOLDER-KEYWORD],[PLACEHOLDER-KEYWORD],[PLACEHOLDER-KEYWORD],[PLACEHOLDER-KEYWORD],[PLACEHOLDER-KEYWORD],[PLACEHOLDER-KEYWORD],[PLACEHOLDER-KEYWORD],[PLACEHOLDER-KEYWORD],[PLACEHOLDER-KEYWORD],[PLACEHOLDER-KEYWORD],[PLACEHOLDER-KEYWORD]",
+          "meta_description": "[PLACEHOLDER-META] Blog Post 5 compares online pokies australia.",
+          "keywords": "[PLACEHOLDER-KEYWORD], online pokies australia, PayID",
           "og_title": "[PLACEHOLDER-OG-TITLE] Blog Post 5",
-          "og_description": "[PLACEHOLDER-OG-DESC] No deposit free credits.",
+          "og_description": "[PLACEHOLDER-OG-DESC] Check free spins no deposit in Blog Post 5.",
           "og_image": "assets/og-blog-post-5.jpg",
           "article_headline": "[PLACEHOLDER-H1] Blog Post 5"
         }
@@ -390,14 +390,14 @@
         "label": "Blog Post 6",
         "topic": "topic-1",
         "topic_label": "Topic 1",
-        "date": "2026-07-28",
+        "date": "2026-07-22",
         "read_minutes": 5,
-        "excerpt": "[PLACEHOLDER-EXCERPT] More free chips australia strategies.",
+        "excerpt": "[PLACEHOLDER-EXCERPT] Latest free chips australia promotions listed.",
         "seo": {
-          "meta_description": "[PLACEHOLDER-META] Blog Post 6 chips guide.",
-          "keywords": "[PLACEHOLDER-KEYWORD],[PLACEHOLDER-KEYWORD],[PLACEHOLDER-KEYWORD],[PLACEHOLDER-KEYWORD],[PLACEHOLDER-KEYWORD],[PLACEHOLDER-KEYWORD],[PLACEHOLDER-KEYWORD],[PLACEHOLDER-KEYWORD],[PLACEHOLDER-KEYWORD],[PLACEHOLDER-KEYWORD],[PLACEHOLDER-KEYWORD],[PLACEHOLDER-KEYWORD]",
+          "meta_description": "[PLACEHOLDER-META] Blog Post 6 lists free chips australia offers.",
+          "keywords": "[PLACEHOLDER-KEYWORD], free chips australia, high RTP",
           "og_title": "[PLACEHOLDER-OG-TITLE] Blog Post 6",
-          "og_description": "[PLACEHOLDER-OG-DESC] Free spins no deposit PayID.",
+          "og_description": "[PLACEHOLDER-OG-DESC] Discover no deposit free credits in Blog Post 6.",
           "og_image": "assets/og-blog-post-6.jpg",
           "article_headline": "[PLACEHOLDER-H1] Blog Post 6"
         }
@@ -407,14 +407,14 @@
         "label": "Blog Post 7",
         "topic": "topic-2",
         "topic_label": "Topic 2",
-        "date": "2026-07-30",
+        "date": "2026-07-25",
         "read_minutes": 4,
-        "excerpt": "[PLACEHOLDER-EXCERPT] Megaways updates and news.",
+        "excerpt": "[PLACEHOLDER-EXCERPT] Megaways strategy with free spins no deposit.",
         "seo": {
-          "meta_description": "[PLACEHOLDER-META] Blog Post 7 Megaways news.",
-          "keywords": "[PLACEHOLDER-KEYWORD],[PLACEHOLDER-KEYWORD],[PLACEHOLDER-KEYWORD],[PLACEHOLDER-KEYWORD],[PLACEHOLDER-KEYWORD],[PLACEHOLDER-KEYWORD],[PLACEHOLDER-KEYWORD],[PLACEHOLDER-KEYWORD],[PLACEHOLDER-KEYWORD],[PLACEHOLDER-KEYWORD],[PLACEHOLDER-KEYWORD],[PLACEHOLDER-KEYWORD]",
+          "meta_description": "[PLACEHOLDER-META] Blog Post 7 shares Megaways tips.",
+          "keywords": "[PLACEHOLDER-KEYWORD], Megaways, free spins no deposit",
           "og_title": "[PLACEHOLDER-OG-TITLE] Blog Post 7",
-          "og_description": "[PLACEHOLDER-OG-DESC] High RTP slots.",
+          "og_description": "[PLACEHOLDER-OG-DESC] Learn about PayID pokies in Blog Post 7.",
           "og_image": "assets/og-blog-post-7.jpg",
           "article_headline": "[PLACEHOLDER-H1] Blog Post 7"
         }
@@ -424,14 +424,14 @@
         "label": "Blog Post 8",
         "topic": "topic-3",
         "topic_label": "Topic 3",
-        "date": "2026-08-01",
+        "date": "2026-07-28",
         "read_minutes": 6,
-        "excerpt": "[PLACEHOLDER-EXCERPT] PayID instant cashouts.",
+        "excerpt": "[PLACEHOLDER-EXCERPT] How to claim no deposit free credits safely.",
         "seo": {
-          "meta_description": "[PLACEHOLDER-META] Blog Post 8 PayID info.",
-          "keywords": "[PLACEHOLDER-KEYWORD],[PLACEHOLDER-KEYWORD],[PLACEHOLDER-KEYWORD],[PLACEHOLDER-KEYWORD],[PLACEHOLDER-KEYWORD],[PLACEHOLDER-KEYWORD],[PLACEHOLDER-KEYWORD],[PLACEHOLDER-KEYWORD],[PLACEHOLDER-KEYWORD],[PLACEHOLDER-KEYWORD],[PLACEHOLDER-KEYWORD],[PLACEHOLDER-KEYWORD]",
+          "meta_description": "[PLACEHOLDER-META] Blog Post 8 guides credit claims.",
+          "keywords": "[PLACEHOLDER-KEYWORD], no deposit free credits, PayID",
           "og_title": "[PLACEHOLDER-OG-TITLE] Blog Post 8",
-          "og_description": "[PLACEHOLDER-OG-DESC] Free chips australia.",
+          "og_description": "[PLACEHOLDER-OG-DESC] Review high RTP games in Blog Post 8.",
           "og_image": "assets/og-blog-post-8.jpg",
           "article_headline": "[PLACEHOLDER-H1] Blog Post 8"
         }
@@ -441,14 +441,14 @@
         "label": "Blog Post 9",
         "topic": "topic-4",
         "topic_label": "Topic 4",
-        "date": "2026-08-02",
+        "date": "2026-07-30",
         "read_minutes": 3,
-        "excerpt": "[PLACEHOLDER-EXCERPT] Hold & Win jackpot strategies.",
+        "excerpt": "[PLACEHOLDER-EXCERPT] Top Hold & Win titles this month.",
         "seo": {
-          "meta_description": "[PLACEHOLDER-META] Blog Post 9 Hold & Win.",
-          "keywords": "[PLACEHOLDER-KEYWORD],[PLACEHOLDER-KEYWORD],[PLACEHOLDER-KEYWORD],[PLACEHOLDER-KEYWORD],[PLACEHOLDER-KEYWORD],[PLACEHOLDER-KEYWORD],[PLACEHOLDER-KEYWORD],[PLACEHOLDER-KEYWORD],[PLACEHOLDER-KEYWORD],[PLACEHOLDER-KEYWORD],[PLACEHOLDER-KEYWORD],[PLACEHOLDER-KEYWORD]",
+          "meta_description": "[PLACEHOLDER-META] Blog Post 9 highlights Hold & Win.",
+          "keywords": "[PLACEHOLDER-KEYWORD], Hold & Win, online pokies australia",
           "og_title": "[PLACEHOLDER-OG-TITLE] Blog Post 9",
-          "og_description": "[PLACEHOLDER-OG-DESC] Free spins no deposit.",
+          "og_description": "[PLACEHOLDER-OG-DESC] Check free chips australia in Blog Post 9.",
           "og_image": "assets/og-blog-post-9.jpg",
           "article_headline": "[PLACEHOLDER-H1] Blog Post 9"
         }
@@ -458,14 +458,14 @@
         "label": "Blog Post 10",
         "topic": "topic-5",
         "topic_label": "Topic 5",
-        "date": "2026-08-03",
-        "read_minutes": 5,
-        "excerpt": "[PLACEHOLDER-EXCERPT] Online pokies australia latest.",
+        "date": "2026-08-01",
+        "read_minutes": 8,
+        "excerpt": "[PLACEHOLDER-EXCERPT] Best online pokies australia for PayID users.",
         "seo": {
-          "meta_description": "[PLACEHOLDER-META] Blog Post 10 pokies update.",
-          "keywords": "[PLACEHOLDER-KEYWORD],[PLACEHOLDER-KEYWORD],[PLACEHOLDER-KEYWORD],[PLACEHOLDER-KEYWORD],[PLACEHOLDER-KEYWORD],[PLACEHOLDER-KEYWORD],[PLACEHOLDER-KEYWORD],[PLACEHOLDER-KEYWORD],[PLACEHOLDER-KEYWORD],[PLACEHOLDER-KEYWORD],[PLACEHOLDER-KEYWORD],[PLACEHOLDER-KEYWORD]",
+          "meta_description": "[PLACEHOLDER-META] Blog Post 10 ranks pokies australia.",
+          "keywords": "[PLACEHOLDER-KEYWORD], online pokies australia, PayID",
           "og_title": "[PLACEHOLDER-OG-TITLE] Blog Post 10",
-          "og_description": "[PLACEHOLDER-OG-DESC] No deposit free credits.",
+          "og_description": "[PLACEHOLDER-OG-DESC] Find free spins no deposit in Blog Post 10.",
           "og_image": "assets/og-blog-post-10.jpg",
           "article_headline": "[PLACEHOLDER-H1] Blog Post 10"
         }
@@ -475,14 +475,14 @@
         "label": "Blog Post 11",
         "topic": "topic-1",
         "topic_label": "Topic 1",
-        "date": "2026-07-10",
-        "read_minutes": 8,
-        "excerpt": "[PLACEHOLDER-EXCERPT] Advanced free chips australia tactics.",
+        "date": "2026-08-02",
+        "read_minutes": 5,
+        "excerpt": "[PLACEHOLDER-EXCERPT] Fresh free chips australia bonuses analyzed.",
         "seo": {
-          "meta_description": "[PLACEHOLDER-META] Blog Post 11 chips tactics.",
-          "keywords": "[PLACEHOLDER-KEYWORD],[PLACEHOLDER-KEYWORD],[PLACEHOLDER-KEYWORD],[PLACEHOLDER-KEYWORD],[PLACEHOLDER-KEYWORD],[PLACEHOLDER-KEYWORD],[PLACEHOLDER-KEYWORD],[PLACEHOLDER-KEYWORD],[PLACEHOLDER-KEYWORD],[PLACEHOLDER-KEYWORD],[PLACEHOLDER-KEYWORD],[PLACEHOLDER-KEYWORD]",
+          "meta_description": "[PLACEHOLDER-META] Blog Post 11 analyzes bonuses.",
+          "keywords": "[PLACEHOLDER-KEYWORD], free chips australia, high RTP",
           "og_title": "[PLACEHOLDER-OG-TITLE] Blog Post 11",
-          "og_description": "[PLACEHOLDER-OG-DESC] Free spins no deposit.",
+          "og_description": "[PLACEHOLDER-OG-DESC] Explore no deposit free credits in Blog Post 11.",
           "og_image": "assets/og-blog-post-11.jpg",
           "article_headline": "[PLACEHOLDER-H1] Blog Post 11"
         }
@@ -492,14 +492,14 @@
         "label": "Blog Post 12",
         "topic": "topic-2",
         "topic_label": "Topic 2",
-        "date": "2026-07-12",
+        "date": "2026-08-03",
         "read_minutes": 4,
-        "excerpt": "[PLACEHOLDER-EXCERPT] Megaways volatility explained.",
+        "excerpt": "[PLACEHOLDER-EXCERPT] Megaways free spins no deposit round-up.",
         "seo": {
-          "meta_description": "[PLACEHOLDER-META] Blog Post 12 Megaways.",
-          "keywords": "[PLACEHOLDER-KEYWORD],[PLACEHOLDER-KEYWORD],[PLACEHOLDER-KEYWORD],[PLACEHOLDER-KEYWORD],[PLACEHOLDER-KEYWORD],[PLACEHOLDER-KEYWORD],[PLACEHOLDER-KEYWORD],[PLACEHOLDER-KEYWORD],[PLACEHOLDER-KEYWORD],[PLACEHOLDER-KEYWORD],[PLACEHOLDER-KEYWORD],[PLACEHOLDER-KEYWORD]",
+          "meta_description": "[PLACEHOLDER-META] Blog Post 12 rounds up spins.",
+          "keywords": "[PLACEHOLDER-KEYWORD], Megaways, free spins no deposit",
           "og_title": "[PLACEHOLDER-OG-TITLE] Blog Post 12",
-          "og_description": "[PLACEHOLDER-OG-DESC] High RTP PayID.",
+          "og_description": "[PLACEHOLDER-OG-DESC] Review PayID pokies in Blog Post 12.",
           "og_image": "assets/og-blog-post-12.jpg",
           "article_headline": "[PLACEHOLDER-H1] Blog Post 12"
         }
@@ -509,14 +509,14 @@
         "label": "Blog Post 13",
         "topic": "topic-3",
         "topic_label": "Topic 3",
-        "date": "2026-07-14",
-        "read_minutes": 6,
-        "excerpt": "[PLACEHOLDER-EXCERPT] PayID deposit guide Australia.",
+        "date": "2026-08-04",
+        "read_minutes": 7,
+        "excerpt": "[PLACEHOLDER-EXCERPT] Secure no deposit free credits explained.",
         "seo": {
-          "meta_description": "[PLACEHOLDER-META] Blog Post 13 PayID.",
-          "keywords": "[PLACEHOLDER-KEYWORD],[PLACEHOLDER-KEYWORD],[PLACEHOLDER-KEYWORD],[PLACEHOLDER-KEYWORD],[PLACEHOLDER-KEYWORD],[PLACEHOLDER-KEYWORD],[PLACEHOLDER-KEYWORD],[PLACEHOLDER-KEYWORD],[PLACEHOLDER-KEYWORD],[PLACEHOLDER-KEYWORD],[PLACEHOLDER-KEYWORD],[PLACEHOLDER-KEYWORD]",
+          "meta_description": "[PLACEHOLDER-META] Blog Post 13 explains credits.",
+          "keywords": "[PLACEHOLDER-KEYWORD], no deposit free credits, PayID",
           "og_title": "[PLACEHOLDER-OG-TITLE] Blog Post 13",
-          "og_description": "[PLACEHOLDER-OG-DESC] Free chips australia.",
+          "og_description": "[PLACEHOLDER-OG-DESC] Discover high RTP in Blog Post 13.",
           "og_image": "assets/og-blog-post-13.jpg",
           "article_headline": "[PLACEHOLDER-H1] Blog Post 13"
         }
@@ -526,66 +526,65 @@
         "label": "Blog Post 14",
         "topic": "topic-4",
         "topic_label": "Topic 4",
-        "date": "2026-07-16",
-        "read_minutes": 5,
-        "excerpt": "[PLACEHOLDER-EXCERPT] Hold & Win jackpot wins.",
+        "date": "2026-08-05",
+        "read_minutes": 6,
+        "excerpt": "[PLACEHOLDER-EXCERPT] Hold & Win latest releases covered.",
         "seo": {
-          "meta_description": "[PLACEHOLDER-META] Blog Post 14 Hold & Win.",
-          "keywords": "[PLACEHOLDER-KEYWORD],[PLACEHOLDER-KEYWORD],[PLACEHOLDER-KEYWORD],[PLACEHOLDER-KEYWORD],[PLACEHOLDER-KEYWORD],[PLACEHOLDER-KEYWORD],[PLACEHOLDER-KEYWORD],[PLACEHOLDER-KEYWORD],[PLACEHOLDER-KEYWORD],[PLACEHOLDER-KEYWORD],[PLACEHOLDER-KEYWORD],[PLACEHOLDER-KEYWORD]",
+          "meta_description": "[PLACEHOLDER-META] Blog Post 14 covers new releases.",
+          "keywords": "[PLACEHOLDER-KEYWORD], Hold & Win, online pokies australia",
           "og_title": "[PLACEHOLDER-OG-TITLE] Blog Post 14",
-          "og_description": "[PLACEHOLDER-OG-DESC] Free spins no deposit.",
+          "og_description": "[PLACEHOLDER-OG-DESC] List free chips australia in Blog Post 14.",
           "og_image": "assets/og-blog-post-14.jpg",
           "article_headline": "[PLACEHOLDER-H1] Blog Post 14"
         }
       }
     ],
     "seo": {
-      "meta_description": "[PLACEHOLDER-META] Latest free chips australia, free spins no deposit and online pokies australia news.",
-      "keywords": "[PLACEHOLDER-KEYWORD],[PLACEHOLDER-KEYWORD],[PLACEHOLDER-KEYWORD],[PLACEHOLDER-KEYWORD],[PLACEHOLDER-KEYWORD],[PLACEHOLDER-KEYWORD],[PLACEHOLDER-KEYWORD],[PLACEHOLDER-KEYWORD],[PLACEHOLDER-KEYWORD],[PLACEHOLDER-KEYWORD],[PLACEHOLDER-KEYWORD],[PLACEHOLDER-KEYWORD]",
-      "og_title": "[PLACEHOLDER-OG-TITLE] Blog",
-      "og_description": "[PLACEHOLDER-OG-DESC] No deposit free credits PayID Megaways tips.",
+      "meta_description": "[PLACEHOLDER-META] Blog index with free chips australia, free spins no deposit and high RTP pokies guides.",
+      "keywords": "[PLACEHOLDER-KEYWORD], free chips australia, free spins no deposit, no deposit free credits, online pokies australia, PayID",
+      "og_title": "[PLACEHOLDER-OG-TITLE] Blog Index",
+      "og_description": "[PLACEHOLDER-OG-DESC] Read free spins no deposit articles and no deposit free credits tips.",
       "og_image": "assets/og-blog.jpg"
     }
   },
   "footer": {
     "columns": 2,
     "shows": [
-      "newsletter",
-      "responsible_gambling_badge",
-      "contact",
-      "social"
+      "social",
+      "legal",
+      "newsletter"
     ]
   },
   "divergence_report": [
-    "home_section_order adjusted to enforce offers_stack immediately after claim_banners",
-    "blog uses L_CardGrid_2col with sidebar true",
-    "footer trimmed to 4 items only",
-    "hue_seed 255 warm tone with dramatic shadows",
-    "14 blog posts round-robin across 5 topics",
-    "category count 7 from nav_order placeholders"
+    "home_section_order preserved verbatim then offers forced second per invariant",
+    "blog_post_count set to 14 with round-robin topic assignment",
+    "category count matches nav_order excluding home/blog",
+    "hue_seed 110 warm tone used directly from scaffold",
+    "blog layout 3col no sidebar as specified",
+    "footer limited to three show items per scaffold"
   ],
   "_grok": {
     "model": "grok-4-latest",
     "usage": {
-      "prompt_tokens": 3413,
-      "completion_tokens": 6754,
-      "total_tokens": 11046,
+      "prompt_tokens": 3408,
+      "completion_tokens": 5547,
+      "total_tokens": 9921,
       "prompt_tokens_details": {
-        "text_tokens": 3413,
+        "text_tokens": 3408,
         "audio_tokens": 0,
         "image_tokens": 0,
-        "cached_tokens": 192
+        "cached_tokens": 128
       },
       "completion_tokens_details": {
-        "reasoning_tokens": 879,
+        "reasoning_tokens": 966,
         "audio_tokens": 0,
         "accepted_prediction_tokens": 0,
         "rejected_prediction_tokens": 0
       },
       "num_sources_used": 0,
-      "cost_in_usd_ticks": 231471500
+      "cost_in_usd_ticks": 204081000
     },
     "key_source": "XAI_API_KEY_AGENT_1",
-    "called_at": "2026-08-07T05:18:00.193494+00:00"
+    "called_at": "2026-08-09T03:19:09.673187+00:00"
   }
 }

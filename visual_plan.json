@@ -1,0 +1,450 @@
+{
+  "theme_sync": {
+    "hue_seed": 110,
+    "mood": "warm vibrant casino",
+    "palette_hint": "deep charcoal-brown base with gold/amber accents around hue 110 degrees, warm vibrant casino premium mood"
+  },
+  "logo": {
+    "filename": "assets/logo.png",
+    "transparent": true,
+    "prompt": "Flat vector brand logo for 'FreeAustraliaCredits96', the MAIN THEME of an Australian online pokies free-chips affiliate website. Design must feel exclusive to 'FreeAustraliaCredits96' (not a generic casino template): a bold clean icon+wordmark (abstract chip or reel mark) that clearly reads 'FreeAustraliaCredits96'. Palette: deep charcoal-brown base with gold/amber accents around hue 110 degrees, warm vibrant casino premium mood. STRICT OUTPUT: PNG with full alpha transparency. Absolutely NO background — no white background, no white square, no white box, no paper plate, no solid colour block behind the mark. The logo is designed to sit directly on a DARK charcoal/black website header, so use light/gold accents that read against dark. Crisp vector edges, perfectly legible at roughly 36-56px header height, no photorealism, no extra words besides the brand.",
+    "negative_prompt": "third-party casino logos, real operator brand marks, sports team logos, celebrity likeness, minors, children, guaranteed-win text, 'risk-free' text, official government flags, watermark, blurry, low-res, distorted or extra garbled letters, white background, white square, white box, solid background, framed plate, paper background, photorealistic, cluttered, more than 3 colours, generic stock casino logo, watermark, drop shadow rectangle"
+  },
+  "banners": [
+    {
+      "id": "explore_banner_1",
+      "filename": "assets/banners/explore-01.jpg",
+      "page_ref": "index.html",
+      "topic": "online pokies",
+      "aspect": "16:9",
+      "logo_placement": "bottom-left",
+      "title_text": "Online Pokies",
+      "negative_prompt": "third-party casino logos, real operator brand marks, sports team logos, celebrity likeness, minors, children, guaranteed-win text, 'risk-free' text, official government flags, watermark, blurry, low-res, distorted or extra garbled letters, blurry text, unreadable letters, watermark, wrong title text",
+      "prompt": "\"ONLINE POKIES\" — large bold readable white or gold capital letters must dominate the upper third of this cinematic 16:9 banner. Clean sans-serif, slight dark shadow for contrast, perfectly legible. Theme context: online pokies. Style: deep charcoal-brown base with gold/amber accents around hue 110 degrees, warm vibrant casino premium mood, dramatic casino lighting, subtle generic pokies reels / chips / coins (NO real operator brands). Do NOT place any site logo, brand mark, white box, or watermark in corners. Aspect 16:9."
+    },
+    {
+      "id": "explore_banner_2",
+      "filename": "assets/banners/explore-02.jpg",
+      "page_ref": "index.html",
+      "topic": "Megaways-style cascading reels (generic, no operator brand)",
+      "aspect": "16:9",
+      "logo_placement": "bottom-left",
+      "title_text": "Megaways-Style Cascading Reels (Generic, No Oper",
+      "negative_prompt": "third-party casino logos, real operator brand marks, sports team logos, celebrity likeness, minors, children, guaranteed-win text, 'risk-free' text, official government flags, watermark, blurry, low-res, distorted or extra garbled letters, blurry text, unreadable letters, watermark, wrong title text",
+      "prompt": "\"MEGAWAYS-STYLE CASCADING REELS (GENERIC, NO OPER\" — large bold readable white or gold capital letters must dominate the upper third of this cinematic 16:9 banner. Clean sans-serif, slight dark shadow for contrast, perfectly legible. Theme context: Megaways-style cascading reels (generic, no operator brand). Style: deep charcoal-brown base with gold/amber accents around hue 110 degrees, warm vibrant casino premium mood, dramatic casino lighting, subtle generic pokies reels / chips / coins (NO real operator brands). Do NOT place any site logo, brand mark, white box, or watermark in corners. Aspect 16:9."
+    },
+    {
+      "id": "page_banner_freecredit88-aus",
+      "filename": "assets/banners/freecredit88-aus.jpg",
+      "page_ref": "freecredit88-aus.html",
+      "topic": "FreeCredit88 Aus Australian pokies free spins free chips (FreeAustraliaCredits96)",
+      "aspect": "16:9",
+      "logo_placement": "bottom-left",
+      "title_text": "FreeCredit88 Aus",
+      "negative_prompt": "third-party casino logos, real operator brand marks, sports team logos, celebrity likeness, minors, children, guaranteed-win text, 'risk-free' text, official government flags, watermark, blurry, low-res, distorted or extra garbled letters, blurry text, unreadable letters, watermark, wrong title text",
+      "prompt": "\"FREECREDIT88 AUS\" — large bold readable white or gold capital letters must dominate the upper third of this cinematic 16:9 banner. Clean sans-serif, slight dark shadow for contrast, perfectly legible. Theme context: FreeCredit88 Aus Australian pokies free spins free chips (FreeAustraliaCredits96). Style: deep charcoal-brown base with gold/amber accents around hue 110 degrees, warm vibrant casino premium mood, dramatic casino lighting, subtle generic pokies reels / chips / coins (NO real operator brands). Do NOT place any site logo, brand mark, white box, or watermark in corners. Aspect 16:9."
+    },
+    {
+      "id": "page_banner_megawin7-au",
+      "filename": "assets/banners/megawin7-au.jpg",
+      "page_ref": "megawin7-au.html",
+      "topic": "MegaWin7 AU Australian pokies free spins free chips (FreeAustraliaCredits96)",
+      "aspect": "16:9",
+      "logo_placement": "bottom-left",
+      "title_text": "MegaWin7 AU",
+      "negative_prompt": "third-party casino logos, real operator brand marks, sports team logos, celebrity likeness, minors, children, guaranteed-win text, 'risk-free' text, official government flags, watermark, blurry, low-res, distorted or extra garbled letters, blurry text, unreadable letters, watermark, wrong title text",
+      "prompt": "\"MEGAWIN7 AU\" — large bold readable white or gold capital letters must dominate the upper third of this cinematic 16:9 banner. Clean sans-serif, slight dark shadow for contrast, perfectly legible. Theme context: MegaWin7 AU Australian pokies free spins free chips (FreeAustraliaCredits96). Style: deep charcoal-brown base with gold/amber accents around hue 110 degrees, warm vibrant casino premium mood, dramatic casino lighting, subtle generic pokies reels / chips / coins (NO real operator brands). Do NOT place any site logo, brand mark, white box, or watermark in corners. Aspect 16:9."
+    },
+    {
+      "id": "page_banner_holdcoin33-free",
+      "filename": "assets/banners/holdcoin33-free.jpg",
+      "page_ref": "holdcoin33-free.html",
+      "topic": "HoldCoin33 Free Australian pokies free spins free chips (FreeAustraliaCredits96)",
+      "aspect": "16:9",
+      "logo_placement": "bottom-left",
+      "title_text": "HoldCoin33 Free",
+      "negative_prompt": "third-party casino logos, real operator brand marks, sports team logos, celebrity likeness, minors, children, guaranteed-win text, 'risk-free' text, official government flags, watermark, blurry, low-res, distorted or extra garbled letters, blurry text, unreadable letters, watermark, wrong title text",
+      "prompt": "\"HOLDCOIN33 FREE\" — large bold readable white or gold capital letters must dominate the upper third of this cinematic 16:9 banner. Clean sans-serif, slight dark shadow for contrast, perfectly legible. Theme context: HoldCoin33 Free Australian pokies free spins free chips (FreeAustraliaCredits96). Style: deep charcoal-brown base with gold/amber accents around hue 110 degrees, warm vibrant casino premium mood, dramatic casino lighting, subtle generic pokies reels / chips / coins (NO real operator brands). Do NOT place any site logo, brand mark, white box, or watermark in corners. Aspect 16:9."
+    },
+    {
+      "id": "page_banner_megaways18-au",
+      "filename": "assets/banners/megaways18-au.jpg",
+      "page_ref": "megaways18-au.html",
+      "topic": "MegaWays18 AU Australian pokies free spins free chips (FreeAustraliaCredits96)",
+      "aspect": "16:9",
+      "logo_placement": "bottom-left",
+      "title_text": "MegaWays18 AU",
+      "negative_prompt": "third-party casino logos, real operator brand marks, sports team logos, celebrity likeness, minors, children, guaranteed-win text, 'risk-free' text, official government flags, watermark, blurry, low-res, distorted or extra garbled letters, blurry text, unreadable letters, watermark, wrong title text",
+      "prompt": "\"MEGAWAYS18 AU\" — large bold readable white or gold capital letters must dominate the upper third of this cinematic 16:9 banner. Clean sans-serif, slight dark shadow for contrast, perfectly legible. Theme context: MegaWays18 AU Australian pokies free spins free chips (FreeAustraliaCredits96). Style: deep charcoal-brown base with gold/amber accents around hue 110 degrees, warm vibrant casino premium mood, dramatic casino lighting, subtle generic pokies reels / chips / coins (NO real operator brands). Do NOT place any site logo, brand mark, white box, or watermark in corners. Aspect 16:9."
+    },
+    {
+      "id": "page_banner_freespin66-aus",
+      "filename": "assets/banners/freespin66-aus.jpg",
+      "page_ref": "freespin66-aus.html",
+      "topic": "FreeSpin66 Aus Australian pokies free spins free chips (FreeAustraliaCredits96)",
+      "aspect": "16:9",
+      "logo_placement": "bottom-left",
+      "title_text": "FreeSpin66 Aus",
+      "negative_prompt": "third-party casino logos, real operator brand marks, sports team logos, celebrity likeness, minors, children, guaranteed-win text, 'risk-free' text, official government flags, watermark, blurry, low-res, distorted or extra garbled letters, blurry text, unreadable letters, watermark, wrong title text",
+      "prompt": "\"FREESPIN66 AUS\" — large bold readable white or gold capital letters must dominate the upper third of this cinematic 16:9 banner. Clean sans-serif, slight dark shadow for contrast, perfectly legible. Theme context: FreeSpin66 Aus Australian pokies free spins free chips (FreeAustraliaCredits96). Style: deep charcoal-brown base with gold/amber accents around hue 110 degrees, warm vibrant casino premium mood, dramatic casino lighting, subtle generic pokies reels / chips / coins (NO real operator brands). Do NOT place any site logo, brand mark, white box, or watermark in corners. Aspect 16:9."
+    },
+    {
+      "id": "page_banner_bestrtp69-aus",
+      "filename": "assets/banners/bestrtp69-aus.jpg",
+      "page_ref": "bestrtp69-aus.html",
+      "topic": "BestRTP69 Aus Australian pokies free spins free chips (FreeAustraliaCredits96)",
+      "aspect": "16:9",
+      "logo_placement": "bottom-left",
+      "title_text": "BestRTP69 Aus",
+      "negative_prompt": "third-party casino logos, real operator brand marks, sports team logos, celebrity likeness, minors, children, guaranteed-win text, 'risk-free' text, official government flags, watermark, blurry, low-res, distorted or extra garbled letters, blurry text, unreadable letters, watermark, wrong title text",
+      "prompt": "\"BESTRTP69 AUS\" — large bold readable white or gold capital letters must dominate the upper third of this cinematic 16:9 banner. Clean sans-serif, slight dark shadow for contrast, perfectly legible. Theme context: BestRTP69 Aus Australian pokies free spins free chips (FreeAustraliaCredits96). Style: deep charcoal-brown base with gold/amber accents around hue 110 degrees, warm vibrant casino premium mood, dramatic casino lighting, subtle generic pokies reels / chips / coins (NO real operator brands). Do NOT place any site logo, brand mark, white box, or watermark in corners. Aspect 16:9."
+    },
+    {
+      "id": "page_banner_ozpayid22",
+      "filename": "assets/banners/ozpayid22.jpg",
+      "page_ref": "ozpayid22.html",
+      "topic": "OzPayID22 Australian pokies free spins free chips (FreeAustraliaCredits96)",
+      "aspect": "16:9",
+      "logo_placement": "bottom-left",
+      "title_text": "OzPayID22",
+      "negative_prompt": "third-party casino logos, real operator brand marks, sports team logos, celebrity likeness, minors, children, guaranteed-win text, 'risk-free' text, official government flags, watermark, blurry, low-res, distorted or extra garbled letters, blurry text, unreadable letters, watermark, wrong title text",
+      "prompt": "\"OZPAYID22\" — large bold readable white or gold capital letters must dominate the upper third of this cinematic 16:9 banner. Clean sans-serif, slight dark shadow for contrast, perfectly legible. Theme context: OzPayID22 Australian pokies free spins free chips (FreeAustraliaCredits96). Style: deep charcoal-brown base with gold/amber accents around hue 110 degrees, warm vibrant casino premium mood, dramatic casino lighting, subtle generic pokies reels / chips / coins (NO real operator brands). Do NOT place any site logo, brand mark, white box, or watermark in corners. Aspect 16:9."
+    },
+    {
+      "id": "blog_hub",
+      "filename": "assets/banners/blog.jpg",
+      "page_ref": "blog.html",
+      "topic": "FreeAustraliaCredits96 Australian pokies blog hub, editorial dark premium",
+      "aspect": "16:9",
+      "logo_placement": "bottom-left",
+      "title_text": "FreeAustraliaCredits96 Pokies Blog",
+      "negative_prompt": "third-party casino logos, real operator brand marks, sports team logos, celebrity likeness, minors, children, guaranteed-win text, 'risk-free' text, official government flags, watermark, blurry, low-res, distorted or extra garbled letters, blurry text, unreadable letters, watermark, wrong title text",
+      "prompt": "\"FREEAUSTRALIACREDITS96 POKIES BLOG\" — large bold readable white or gold capital letters must dominate the upper third of this cinematic 16:9 banner. Clean sans-serif, slight dark shadow for contrast, perfectly legible. Theme context: FreeAustraliaCredits96 Australian pokies blog hub, editorial dark premium. Style: deep charcoal-brown base with gold/amber accents around hue 110 degrees, warm vibrant casino premium mood, dramatic casino lighting, subtle generic pokies reels / chips / coins (NO real operator brands). Do NOT place any site logo, brand mark, white box, or watermark in corners. Aspect 16:9."
+    },
+    {
+      "id": "blogcat_blog-top-pokies",
+      "filename": "assets/banners/blog-top-pokies.jpg",
+      "page_ref": "blog-top-pokies.html",
+      "topic": "Top Pokies guides for Australian pokies players",
+      "aspect": "16:9",
+      "logo_placement": "bottom-left",
+      "title_text": "Top Pokies",
+      "negative_prompt": "third-party casino logos, real operator brand marks, sports team logos, celebrity likeness, minors, children, guaranteed-win text, 'risk-free' text, official government flags, watermark, blurry, low-res, distorted or extra garbled letters, blurry text, unreadable letters, watermark, wrong title text",
+      "prompt": "\"TOP POKIES\" — large bold readable white or gold capital letters must dominate the upper third of this cinematic 16:9 banner. Clean sans-serif, slight dark shadow for contrast, perfectly legible. Theme context: Top Pokies guides for Australian pokies players. Style: deep charcoal-brown base with gold/amber accents around hue 110 degrees, warm vibrant casino premium mood, dramatic casino lighting, subtle generic pokies reels / chips / coins (NO real operator brands). Do NOT place any site logo, brand mark, white box, or watermark in corners. Aspect 16:9."
+    },
+    {
+      "id": "blogcat_blog-bonus-guides",
+      "filename": "assets/banners/blog-bonus-guides.jpg",
+      "page_ref": "blog-bonus-guides.html",
+      "topic": "Bonus Guides guides for Australian pokies players",
+      "aspect": "16:9",
+      "logo_placement": "bottom-left",
+      "title_text": "Bonus Guides",
+      "negative_prompt": "third-party casino logos, real operator brand marks, sports team logos, celebrity likeness, minors, children, guaranteed-win text, 'risk-free' text, official government flags, watermark, blurry, low-res, distorted or extra garbled letters, blurry text, unreadable letters, watermark, wrong title text",
+      "prompt": "\"BONUS GUIDES\" — large bold readable white or gold capital letters must dominate the upper third of this cinematic 16:9 banner. Clean sans-serif, slight dark shadow for contrast, perfectly legible. Theme context: Bonus Guides guides for Australian pokies players. Style: deep charcoal-brown base with gold/amber accents around hue 110 degrees, warm vibrant casino premium mood, dramatic casino lighting, subtle generic pokies reels / chips / coins (NO real operator brands). Do NOT place any site logo, brand mark, white box, or watermark in corners. Aspect 16:9."
+    },
+    {
+      "id": "blogcat_blog-fast-cashouts",
+      "filename": "assets/banners/blog-fast-cashouts.jpg",
+      "page_ref": "blog-fast-cashouts.html",
+      "topic": "Fast Cashouts guides for Australian pokies players",
+      "aspect": "16:9",
+      "logo_placement": "bottom-left",
+      "title_text": "Fast Cashouts",
+      "negative_prompt": "third-party casino logos, real operator brand marks, sports team logos, celebrity likeness, minors, children, guaranteed-win text, 'risk-free' text, official government flags, watermark, blurry, low-res, distorted or extra garbled letters, blurry text, unreadable letters, watermark, wrong title text",
+      "prompt": "\"FAST CASHOUTS\" — large bold readable white or gold capital letters must dominate the upper third of this cinematic 16:9 banner. Clean sans-serif, slight dark shadow for contrast, perfectly legible. Theme context: Fast Cashouts guides for Australian pokies players. Style: deep charcoal-brown base with gold/amber accents around hue 110 degrees, warm vibrant casino premium mood, dramatic casino lighting, subtle generic pokies reels / chips / coins (NO real operator brands). Do NOT place any site logo, brand mark, white box, or watermark in corners. Aspect 16:9."
+    },
+    {
+      "id": "blogcat_blog-winning-tips",
+      "filename": "assets/banners/blog-winning-tips.jpg",
+      "page_ref": "blog-winning-tips.html",
+      "topic": "Winning Tips guides for Australian pokies players",
+      "aspect": "16:9",
+      "logo_placement": "bottom-left",
+      "title_text": "Winning Tips",
+      "negative_prompt": "third-party casino logos, real operator brand marks, sports team logos, celebrity likeness, minors, children, guaranteed-win text, 'risk-free' text, official government flags, watermark, blurry, low-res, distorted or extra garbled letters, blurry text, unreadable letters, watermark, wrong title text",
+      "prompt": "\"WINNING TIPS\" — large bold readable white or gold capital letters must dominate the upper third of this cinematic 16:9 banner. Clean sans-serif, slight dark shadow for contrast, perfectly legible. Theme context: Winning Tips guides for Australian pokies players. Style: deep charcoal-brown base with gold/amber accents around hue 110 degrees, warm vibrant casino premium mood, dramatic casino lighting, subtle generic pokies reels / chips / coins (NO real operator brands). Do NOT place any site logo, brand mark, white box, or watermark in corners. Aspect 16:9."
+    },
+    {
+      "id": "blogcat_blog-promo-guides",
+      "filename": "assets/banners/blog-promo-guides.jpg",
+      "page_ref": "blog-promo-guides.html",
+      "topic": "Promo Guides guides for Australian pokies players",
+      "aspect": "16:9",
+      "logo_placement": "bottom-left",
+      "title_text": "Promo Guides",
+      "negative_prompt": "third-party casino logos, real operator brand marks, sports team logos, celebrity likeness, minors, children, guaranteed-win text, 'risk-free' text, official government flags, watermark, blurry, low-res, distorted or extra garbled letters, blurry text, unreadable letters, watermark, wrong title text",
+      "prompt": "\"PROMO GUIDES\" — large bold readable white or gold capital letters must dominate the upper third of this cinematic 16:9 banner. Clean sans-serif, slight dark shadow for contrast, perfectly legible. Theme context: Promo Guides guides for Australian pokies players. Style: deep charcoal-brown base with gold/amber accents around hue 110 degrees, warm vibrant casino premium mood, dramatic casino lighting, subtle generic pokies reels / chips / coins (NO real operator brands). Do NOT place any site logo, brand mark, white box, or watermark in corners. Aspect 16:9."
+    },
+    {
+      "id": "page_banner_freecredit777-aus",
+      "filename": "assets/banners/freecredit777-aus.jpg",
+      "page_ref": "freecredit777-aus.html",
+      "topic": "FreeCredit777 Aus",
+      "aspect": "16:9",
+      "title_text": "FreeCredit777 Aus",
+      "negative_prompt": "third-party casino logos, real operator brand marks, sports team logos, celebrity likeness, minors, children, guaranteed-win text, 'risk-free' text, official government flags, watermark, blurry, low-res, distorted or extra garbled letters, blurry text, unreadable letters, watermark",
+      "prompt": "\"FREECREDIT777 AUS\" — large bold readable white or gold capital letters must dominate the upper third of this cinematic 16:9 banner. Clean sans-serif, slight dark shadow, perfectly legible. Style: deep charcoal-brown base with gold/amber accents around hue 271 degrees, rich amber casino glow premium mood, dramatic casino lighting, subtle generic pokies reels/chips. Do NOT place any site logo, brand mark, white box or watermark in corners."
+    },
+    {
+      "id": "page_banner_megawin33-au",
+      "filename": "assets/banners/megawin33-au.jpg",
+      "page_ref": "megawin33-au.html",
+      "topic": "MegaWin33 AU",
+      "aspect": "16:9",
+      "title_text": "MegaWin33 AU",
+      "negative_prompt": "third-party casino logos, real operator brand marks, sports team logos, celebrity likeness, minors, children, guaranteed-win text, 'risk-free' text, official government flags, watermark, blurry, low-res, distorted or extra garbled letters, blurry text, unreadable letters, watermark",
+      "prompt": "\"MEGAWIN33 AU\" — large bold readable white or gold capital letters must dominate the upper third of this cinematic 16:9 banner. Clean sans-serif, slight dark shadow, perfectly legible. Style: deep charcoal-brown base with gold/amber accents around hue 271 degrees, rich amber casino glow premium mood, dramatic casino lighting, subtle generic pokies reels/chips. Do NOT place any site logo, brand mark, white box or watermark in corners."
+    },
+    {
+      "id": "page_banner_lockrespin88",
+      "filename": "assets/banners/lockrespin88.jpg",
+      "page_ref": "lockrespin88.html",
+      "topic": "LockRespin88",
+      "aspect": "16:9",
+      "title_text": "LockRespin88",
+      "negative_prompt": "third-party casino logos, real operator brand marks, sports team logos, celebrity likeness, minors, children, guaranteed-win text, 'risk-free' text, official government flags, watermark, blurry, low-res, distorted or extra garbled letters, blurry text, unreadable letters, watermark",
+      "prompt": "\"LOCKRESPIN88\" — large bold readable white or gold capital letters must dominate the upper third of this cinematic 16:9 banner. Clean sans-serif, slight dark shadow, perfectly legible. Style: deep charcoal-brown base with gold/amber accents around hue 271 degrees, rich amber casino glow premium mood, dramatic casino lighting, subtle generic pokies reels/chips. Do NOT place any site logo, brand mark, white box or watermark in corners."
+    },
+    {
+      "id": "page_banner_ausmegaways44",
+      "filename": "assets/banners/ausmegaways44.jpg",
+      "page_ref": "ausmegaways44.html",
+      "topic": "AusMegaways44",
+      "aspect": "16:9",
+      "title_text": "AusMegaways44",
+      "negative_prompt": "third-party casino logos, real operator brand marks, sports team logos, celebrity likeness, minors, children, guaranteed-win text, 'risk-free' text, official government flags, watermark, blurry, low-res, distorted or extra garbled letters, blurry text, unreadable letters, watermark",
+      "prompt": "\"AUSMEGAWAYS44\" — large bold readable white or gold capital letters must dominate the upper third of this cinematic 16:9 banner. Clean sans-serif, slight dark shadow, perfectly legible. Style: deep charcoal-brown base with gold/amber accents around hue 271 degrees, rich amber casino glow premium mood, dramatic casino lighting, subtle generic pokies reels/chips. Do NOT place any site logo, brand mark, white box or watermark in corners."
+    },
+    {
+      "id": "page_banner_nodepspin22",
+      "filename": "assets/banners/nodepspin22.jpg",
+      "page_ref": "nodepspin22.html",
+      "topic": "NoDepSpin22",
+      "aspect": "16:9",
+      "title_text": "NoDepSpin22",
+      "negative_prompt": "third-party casino logos, real operator brand marks, sports team logos, celebrity likeness, minors, children, guaranteed-win text, 'risk-free' text, official government flags, watermark, blurry, low-res, distorted or extra garbled letters, blurry text, unreadable letters, watermark",
+      "prompt": "\"NODEPSPIN22\" — large bold readable white or gold capital letters must dominate the upper third of this cinematic 16:9 banner. Clean sans-serif, slight dark shadow, perfectly legible. Style: deep charcoal-brown base with gold/amber accents around hue 271 degrees, rich amber casino glow premium mood, dramatic casino lighting, subtle generic pokies reels/chips. Do NOT place any site logo, brand mark, white box or watermark in corners."
+    },
+    {
+      "id": "page_banner_bestrtp44-aus",
+      "filename": "assets/banners/bestrtp44-aus.jpg",
+      "page_ref": "bestrtp44-aus.html",
+      "topic": "BestRTP44 Aus",
+      "aspect": "16:9",
+      "title_text": "BestRTP44 Aus",
+      "negative_prompt": "third-party casino logos, real operator brand marks, sports team logos, celebrity likeness, minors, children, guaranteed-win text, 'risk-free' text, official government flags, watermark, blurry, low-res, distorted or extra garbled letters, blurry text, unreadable letters, watermark",
+      "prompt": "\"BESTRTP44 AUS\" — large bold readable white or gold capital letters must dominate the upper third of this cinematic 16:9 banner. Clean sans-serif, slight dark shadow, perfectly legible. Style: deep charcoal-brown base with gold/amber accents around hue 271 degrees, rich amber casino glow premium mood, dramatic casino lighting, subtle generic pokies reels/chips. Do NOT place any site logo, brand mark, white box or watermark in corners."
+    },
+    {
+      "id": "page_banner_payid-withdraw44",
+      "filename": "assets/banners/payid-withdraw44.jpg",
+      "page_ref": "payid-withdraw44.html",
+      "topic": "PayID Withdraw44",
+      "aspect": "16:9",
+      "title_text": "PayID Withdraw44",
+      "negative_prompt": "third-party casino logos, real operator brand marks, sports team logos, celebrity likeness, minors, children, guaranteed-win text, 'risk-free' text, official government flags, watermark, blurry, low-res, distorted or extra garbled letters, blurry text, unreadable letters, watermark",
+      "prompt": "\"PAYID WITHDRAW44\" — large bold readable white or gold capital letters must dominate the upper third of this cinematic 16:9 banner. Clean sans-serif, slight dark shadow, perfectly legible. Style: deep charcoal-brown base with gold/amber accents around hue 271 degrees, rich amber casino glow premium mood, dramatic casino lighting, subtle generic pokies reels/chips. Do NOT place any site logo, brand mark, white box or watermark in corners."
+    }
+  ],
+  "guide_images": [
+    {
+      "id": "guide_1",
+      "filename": "assets/banners/guide-01.jpg",
+      "title_text": "What Free Chips Actually Are",
+      "prompt": "\"WHAT FREE CHIPS ACTUALLY ARE\" — large bold readable white or gold capital letters must dominate the upper third. Clean sans-serif, slight dark shadow. Editorial illustration for Australian pokies guide section. Style: deep charcoal-brown base with gold/amber accents around hue 110 degrees, warm vibrant casino premium mood, premium dark, subtle chip/reel motif. place the FreeAustraliaCredits96 site logo wordmark in the BOTTOM-LEFT corner, small-to-medium size, clear padding from the edges, not covering the main subject; reserve a clean bottom-left safe zone about 12% of the width for later compositing; keep the same logo identity on every banner.",
+      "aspect": "16:9",
+      "negative_prompt": "third-party casino logos, real operator brand marks, sports team logos, celebrity likeness, minors, children, guaranteed-win text, 'risk-free' text, official government flags, watermark, blurry, low-res, distorted or extra garbled letters, blurry text, unreadable letters"
+    },
+    {
+      "id": "guide_2",
+      "filename": "assets/banners/guide-02.jpg",
+      "title_text": "How Cascades Work",
+      "prompt": "\"HOW CASCADES WORK\" — large bold readable white or gold capital letters must dominate the upper third. Clean sans-serif, slight dark shadow. Editorial illustration for Australian pokies guide section. Style: deep charcoal-brown base with gold/amber accents around hue 110 degrees, warm vibrant casino premium mood, premium dark, subtle chip/reel motif. place the FreeAustraliaCredits96 site logo wordmark in the BOTTOM-LEFT corner, small-to-medium size, clear padding from the edges, not covering the main subject; reserve a clean bottom-left safe zone about 12% of the width for later compositing; keep the same logo identity on every banner.",
+      "aspect": "16:9",
+      "negative_prompt": "third-party casino logos, real operator brand marks, sports team logos, celebrity likeness, minors, children, guaranteed-win text, 'risk-free' text, official government flags, watermark, blurry, low-res, distorted or extra garbled letters, blurry text, unreadable letters"
+    },
+    {
+      "id": "guide_3",
+      "filename": "assets/banners/guide-03.jpg",
+      "title_text": "Wagering Explained",
+      "prompt": "\"WAGERING EXPLAINED\" — large bold readable white or gold capital letters must dominate the upper third. Clean sans-serif, slight dark shadow. Editorial illustration for Australian pokies guide section. Style: deep charcoal-brown base with gold/amber accents around hue 110 degrees, warm vibrant casino premium mood, premium dark, subtle chip/reel motif. place the FreeAustraliaCredits96 site logo wordmark in the BOTTOM-LEFT corner, small-to-medium size, clear padding from the edges, not covering the main subject; reserve a clean bottom-left safe zone about 12% of the width for later compositing; keep the same logo identity on every banner.",
+      "aspect": "16:9",
+      "negative_prompt": "third-party casino logos, real operator brand marks, sports team logos, celebrity likeness, minors, children, guaranteed-win text, 'risk-free' text, official government flags, watermark, blurry, low-res, distorted or extra garbled letters, blurry text, unreadable letters"
+    },
+    {
+      "id": "guide_4",
+      "filename": "assets/banners/guide-04.jpg",
+      "title_text": "PayID Cashout Steps",
+      "prompt": "\"PAYID CASHOUT STEPS\" — large bold readable white or gold capital letters must dominate the upper third. Clean sans-serif, slight dark shadow. Editorial illustration for Australian pokies guide section. Style: deep charcoal-brown base with gold/amber accents around hue 110 degrees, warm vibrant casino premium mood, premium dark, subtle chip/reel motif. place the FreeAustraliaCredits96 site logo wordmark in the BOTTOM-LEFT corner, small-to-medium size, clear padding from the edges, not covering the main subject; reserve a clean bottom-left safe zone about 12% of the width for later compositing; keep the same logo identity on every banner.",
+      "aspect": "16:9",
+      "negative_prompt": "third-party casino logos, real operator brand marks, sports team logos, celebrity likeness, minors, children, guaranteed-win text, 'risk-free' text, official government flags, watermark, blurry, low-res, distorted or extra garbled letters, blurry text, unreadable letters"
+    },
+    {
+      "id": "guide_5",
+      "filename": "assets/banners/guide-05.jpg",
+      "title_text": "High RTP Tips",
+      "prompt": "\"HIGH RTP TIPS\" — large bold readable white or gold capital letters must dominate the upper third. Clean sans-serif, slight dark shadow. Editorial illustration for Australian pokies guide section. Style: deep charcoal-brown base with gold/amber accents around hue 110 degrees, warm vibrant casino premium mood, premium dark, subtle chip/reel motif. place the FreeAustraliaCredits96 site logo wordmark in the BOTTOM-LEFT corner, small-to-medium size, clear padding from the edges, not covering the main subject; reserve a clean bottom-left safe zone about 12% of the width for later compositing; keep the same logo identity on every banner.",
+      "aspect": "16:9",
+      "negative_prompt": "third-party casino logos, real operator brand marks, sports team logos, celebrity likeness, minors, children, guaranteed-win text, 'risk-free' text, official government flags, watermark, blurry, low-res, distorted or extra garbled letters, blurry text, unreadable letters"
+    },
+    {
+      "id": "guide_6",
+      "filename": "assets/banners/guide-06.jpg",
+      "title_text": "Hold and Win Basics",
+      "prompt": "\"HOLD AND WIN BASICS\" — large bold readable white or gold capital letters must dominate the upper third. Clean sans-serif, slight dark shadow. Editorial illustration for Australian pokies guide section. Style: deep charcoal-brown base with gold/amber accents around hue 110 degrees, warm vibrant casino premium mood, premium dark, subtle chip/reel motif. place the FreeAustraliaCredits96 site logo wordmark in the BOTTOM-LEFT corner, small-to-medium size, clear padding from the edges, not covering the main subject; reserve a clean bottom-left safe zone about 12% of the width for later compositing; keep the same logo identity on every banner.",
+      "aspect": "16:9",
+      "negative_prompt": "third-party casino logos, real operator brand marks, sports team logos, celebrity likeness, minors, children, guaranteed-win text, 'risk-free' text, official government flags, watermark, blurry, low-res, distorted or extra garbled letters, blurry text, unreadable letters"
+    },
+    {
+      "id": "guide_7",
+      "filename": "assets/banners/guide-07.jpg",
+      "title_text": "Megaways Multipliers",
+      "prompt": "\"MEGAWAYS MULTIPLIERS\" — large bold readable white or gold capital letters must dominate the upper third. Clean sans-serif, slight dark shadow. Editorial illustration for Australian pokies guide section. Style: deep charcoal-brown base with gold/amber accents around hue 110 degrees, warm vibrant casino premium mood, premium dark, subtle chip/reel motif. place the FreeAustraliaCredits96 site logo wordmark in the BOTTOM-LEFT corner, small-to-medium size, clear padding from the edges, not covering the main subject; reserve a clean bottom-left safe zone about 12% of the width for later compositing; keep the same logo identity on every banner.",
+      "aspect": "16:9",
+      "negative_prompt": "third-party casino logos, real operator brand marks, sports team logos, celebrity likeness, minors, children, guaranteed-win text, 'risk-free' text, official government flags, watermark, blurry, low-res, distorted or extra garbled letters, blurry text, unreadable letters"
+    },
+    {
+      "id": "guide_8",
+      "filename": "assets/banners/guide-08.jpg",
+      "title_text": "Claim Checklist",
+      "prompt": "\"CLAIM CHECKLIST\" — large bold readable white or gold capital letters must dominate the upper third. Clean sans-serif, slight dark shadow. Editorial illustration for Australian pokies guide section. Style: deep charcoal-brown base with gold/amber accents around hue 110 degrees, warm vibrant casino premium mood, premium dark, subtle chip/reel motif. place the FreeAustraliaCredits96 site logo wordmark in the BOTTOM-LEFT corner, small-to-medium size, clear padding from the edges, not covering the main subject; reserve a clean bottom-left safe zone about 12% of the width for later compositing; keep the same logo identity on every banner.",
+      "aspect": "16:9",
+      "negative_prompt": "third-party casino logos, real operator brand marks, sports team logos, celebrity likeness, minors, children, guaranteed-win text, 'risk-free' text, official government flags, watermark, blurry, low-res, distorted or extra garbled letters, blurry text, unreadable letters"
+    }
+  ],
+  "blog_cards": [
+    {
+      "id": "blogcard_blog-post-1",
+      "filename": "assets/blog-cards/blog-post-1.jpg",
+      "path_ref": "blog-post-1.html",
+      "logo_placement": "bottom-left",
+      "title_text": "Blog Post 1",
+      "negative_prompt": "third-party casino logos, real operator brand marks, sports team logos, celebrity likeness, minors, children, guaranteed-win text, 'risk-free' text, official government flags, watermark, blurry, low-res, distorted or extra garbled letters, blurry text, unreadable letters, giant BLOG POST heading, oversized post number, 'blog post' as the main title, large centered 'blog post' label",
+      "prompt": "Editorial 16:9 Australian online pokies blog thumbnail. MAIN HEADLINE: \"BLOG POST 1\" — big bold white or gold sans-serif capitals CENTERED in the MIDDLE of the image, dominating the frame, slight dark shadow, perfectly legible. In the TOP-LEFT corner ONLY, add a SMALL \"Blog Post 1\" tag in a tiny muted font, roughly one quarter of the headline height — it must NOT be the main text. Style: deep charcoal-brown base with gold/amber accents around hue 110 degrees, warm vibrant casino premium mood, premium dark casino mood, subtle chips and reels. No site logo, no white box. The description headline is by far the largest text; the \"Blog Post 1\" tag stays small in the corner."
+    },
+    {
+      "id": "blogcard_blog-post-2",
+      "filename": "assets/blog-cards/blog-post-2.jpg",
+      "path_ref": "blog-post-2.html",
+      "logo_placement": "bottom-left",
+      "title_text": "Blog Post 2",
+      "negative_prompt": "third-party casino logos, real operator brand marks, sports team logos, celebrity likeness, minors, children, guaranteed-win text, 'risk-free' text, official government flags, watermark, blurry, low-res, distorted or extra garbled letters, blurry text, unreadable letters, giant BLOG POST heading, oversized post number, 'blog post' as the main title, large centered 'blog post' label",
+      "prompt": "Editorial 16:9 Australian online pokies blog thumbnail. MAIN HEADLINE: \"BLOG POST 2\" — big bold white or gold sans-serif capitals CENTERED in the MIDDLE of the image, dominating the frame, slight dark shadow, perfectly legible. In the TOP-LEFT corner ONLY, add a SMALL \"Blog Post 2\" tag in a tiny muted font, roughly one quarter of the headline height — it must NOT be the main text. Style: deep charcoal-brown base with gold/amber accents around hue 110 degrees, warm vibrant casino premium mood, premium dark casino mood, subtle chips and reels. No site logo, no white box. The description headline is by far the largest text; the \"Blog Post 2\" tag stays small in the corner."
+    },
+    {
+      "id": "blogcard_blog-post-3",
+      "filename": "assets/blog-cards/blog-post-3.jpg",
+      "path_ref": "blog-post-3.html",
+      "logo_placement": "bottom-left",
+      "title_text": "Blog Post 3",
+      "negative_prompt": "third-party casino logos, real operator brand marks, sports team logos, celebrity likeness, minors, children, guaranteed-win text, 'risk-free' text, official government flags, watermark, blurry, low-res, distorted or extra garbled letters, blurry text, unreadable letters, giant BLOG POST heading, oversized post number, 'blog post' as the main title, large centered 'blog post' label",
+      "prompt": "Editorial 16:9 Australian online pokies blog thumbnail. MAIN HEADLINE: \"BLOG POST 3\" — big bold white or gold sans-serif capitals CENTERED in the MIDDLE of the image, dominating the frame, slight dark shadow, perfectly legible. In the TOP-LEFT corner ONLY, add a SMALL \"Blog Post 3\" tag in a tiny muted font, roughly one quarter of the headline height — it must NOT be the main text. Style: deep charcoal-brown base with gold/amber accents around hue 110 degrees, warm vibrant casino premium mood, premium dark casino mood, subtle chips and reels. No site logo, no white box. The description headline is by far the largest text; the \"Blog Post 3\" tag stays small in the corner."
+    },
+    {
+      "id": "blogcard_blog-post-4",
+      "filename": "assets/blog-cards/blog-post-4.jpg",
+      "path_ref": "blog-post-4.html",
+      "logo_placement": "bottom-left",
+      "title_text": "Blog Post 4",
+      "negative_prompt": "third-party casino logos, real operator brand marks, sports team logos, celebrity likeness, minors, children, guaranteed-win text, 'risk-free' text, official government flags, watermark, blurry, low-res, distorted or extra garbled letters, blurry text, unreadable letters, giant BLOG POST heading, oversized post number, 'blog post' as the main title, large centered 'blog post' label",
+      "prompt": "Editorial 16:9 Australian online pokies blog thumbnail. MAIN HEADLINE: \"BLOG POST 4\" — big bold white or gold sans-serif capitals CENTERED in the MIDDLE of the image, dominating the frame, slight dark shadow, perfectly legible. In the TOP-LEFT corner ONLY, add a SMALL \"Blog Post 4\" tag in a tiny muted font, roughly one quarter of the headline height — it must NOT be the main text. Style: deep charcoal-brown base with gold/amber accents around hue 110 degrees, warm vibrant casino premium mood, premium dark casino mood, subtle chips and reels. No site logo, no white box. The description headline is by far the largest text; the \"Blog Post 4\" tag stays small in the corner."
+    },
+    {
+      "id": "blogcard_blog-post-5",
+      "filename": "assets/blog-cards/blog-post-5.jpg",
+      "path_ref": "blog-post-5.html",
+      "logo_placement": "bottom-left",
+      "title_text": "Blog Post 5",
+      "negative_prompt": "third-party casino logos, real operator brand marks, sports team logos, celebrity likeness, minors, children, guaranteed-win text, 'risk-free' text, official government flags, watermark, blurry, low-res, distorted or extra garbled letters, blurry text, unreadable letters, giant BLOG POST heading, oversized post number, 'blog post' as the main title, large centered 'blog post' label",
+      "prompt": "Editorial 16:9 Australian online pokies blog thumbnail. MAIN HEADLINE: \"BLOG POST 5\" — big bold white or gold sans-serif capitals CENTERED in the MIDDLE of the image, dominating the frame, slight dark shadow, perfectly legible. In the TOP-LEFT corner ONLY, add a SMALL \"Blog Post 5\" tag in a tiny muted font, roughly one quarter of the headline height — it must NOT be the main text. Style: deep charcoal-brown base with gold/amber accents around hue 110 degrees, warm vibrant casino premium mood, premium dark casino mood, subtle chips and reels. No site logo, no white box. The description headline is by far the largest text; the \"Blog Post 5\" tag stays small in the corner."
+    },
+    {
+      "id": "blogcard_blog-post-6",
+      "filename": "assets/blog-cards/blog-post-6.jpg",
+      "path_ref": "blog-post-6.html",
+      "logo_placement": "bottom-left",
+      "title_text": "Blog Post 6",
+      "negative_prompt": "third-party casino logos, real operator brand marks, sports team logos, celebrity likeness, minors, children, guaranteed-win text, 'risk-free' text, official government flags, watermark, blurry, low-res, distorted or extra garbled letters, blurry text, unreadable letters, giant BLOG POST heading, oversized post number, 'blog post' as the main title, large centered 'blog post' label",
+      "prompt": "Editorial 16:9 Australian online pokies blog thumbnail. MAIN HEADLINE: \"BLOG POST 6\" — big bold white or gold sans-serif capitals CENTERED in the MIDDLE of the image, dominating the frame, slight dark shadow, perfectly legible. In the TOP-LEFT corner ONLY, add a SMALL \"Blog Post 6\" tag in a tiny muted font, roughly one quarter of the headline height — it must NOT be the main text. Style: deep charcoal-brown base with gold/amber accents around hue 110 degrees, warm vibrant casino premium mood, premium dark casino mood, subtle chips and reels. No site logo, no white box. The description headline is by far the largest text; the \"Blog Post 6\" tag stays small in the corner."
+    },
+    {
+      "id": "blogcard_blog-post-7",
+      "filename": "assets/blog-cards/blog-post-7.jpg",
+      "path_ref": "blog-post-7.html",
+      "logo_placement": "bottom-left",
+      "title_text": "Blog Post 7",
+      "negative_prompt": "third-party casino logos, real operator brand marks, sports team logos, celebrity likeness, minors, children, guaranteed-win text, 'risk-free' text, official government flags, watermark, blurry, low-res, distorted or extra garbled letters, blurry text, unreadable letters, giant BLOG POST heading, oversized post number, 'blog post' as the main title, large centered 'blog post' label",
+      "prompt": "Editorial 16:9 Australian online pokies blog thumbnail. MAIN HEADLINE: \"BLOG POST 7\" — big bold white or gold sans-serif capitals CENTERED in the MIDDLE of the image, dominating the frame, slight dark shadow, perfectly legible. In the TOP-LEFT corner ONLY, add a SMALL \"Blog Post 7\" tag in a tiny muted font, roughly one quarter of the headline height — it must NOT be the main text. Style: deep charcoal-brown base with gold/amber accents around hue 110 degrees, warm vibrant casino premium mood, premium dark casino mood, subtle chips and reels. No site logo, no white box. The description headline is by far the largest text; the \"Blog Post 7\" tag stays small in the corner."
+    },
+    {
+      "id": "blogcard_blog-post-8",
+      "filename": "assets/blog-cards/blog-post-8.jpg",
+      "path_ref": "blog-post-8.html",
+      "logo_placement": "bottom-left",
+      "title_text": "Blog Post 8",
+      "negative_prompt": "third-party casino logos, real operator brand marks, sports team logos, celebrity likeness, minors, children, guaranteed-win text, 'risk-free' text, official government flags, watermark, blurry, low-res, distorted or extra garbled letters, blurry text, unreadable letters, giant BLOG POST heading, oversized post number, 'blog post' as the main title, large centered 'blog post' label",
+      "prompt": "Editorial 16:9 Australian online pokies blog thumbnail. MAIN HEADLINE: \"BLOG POST 8\" — big bold white or gold sans-serif capitals CENTERED in the MIDDLE of the image, dominating the frame, slight dark shadow, perfectly legible. In the TOP-LEFT corner ONLY, add a SMALL \"Blog Post 8\" tag in a tiny muted font, roughly one quarter of the headline height — it must NOT be the main text. Style: deep charcoal-brown base with gold/amber accents around hue 110 degrees, warm vibrant casino premium mood, premium dark casino mood, subtle chips and reels. No site logo, no white box. The description headline is by far the largest text; the \"Blog Post 8\" tag stays small in the corner."
+    },
+    {
+      "id": "blogcard_blog-post-9",
+      "filename": "assets/blog-cards/blog-post-9.jpg",
+      "path_ref": "blog-post-9.html",
+      "logo_placement": "bottom-left",
+      "title_text": "Blog Post 9",
+      "negative_prompt": "third-party casino logos, real operator brand marks, sports team logos, celebrity likeness, minors, children, guaranteed-win text, 'risk-free' text, official government flags, watermark, blurry, low-res, distorted or extra garbled letters, blurry text, unreadable letters, giant BLOG POST heading, oversized post number, 'blog post' as the main title, large centered 'blog post' label",
+      "prompt": "Editorial 16:9 Australian online pokies blog thumbnail. MAIN HEADLINE: \"BLOG POST 9\" — big bold white or gold sans-serif capitals CENTERED in the MIDDLE of the image, dominating the frame, slight dark shadow, perfectly legible. In the TOP-LEFT corner ONLY, add a SMALL \"Blog Post 9\" tag in a tiny muted font, roughly one quarter of the headline height — it must NOT be the main text. Style: deep charcoal-brown base with gold/amber accents around hue 110 degrees, warm vibrant casino premium mood, premium dark casino mood, subtle chips and reels. No site logo, no white box. The description headline is by far the largest text; the \"Blog Post 9\" tag stays small in the corner."
+    },
+    {
+      "id": "blogcard_blog-post-10",
+      "filename": "assets/blog-cards/blog-post-10.jpg",
+      "path_ref": "blog-post-10.html",
+      "logo_placement": "bottom-left",
+      "title_text": "Blog Post 10",
+      "negative_prompt": "third-party casino logos, real operator brand marks, sports team logos, celebrity likeness, minors, children, guaranteed-win text, 'risk-free' text, official government flags, watermark, blurry, low-res, distorted or extra garbled letters, blurry text, unreadable letters, giant BLOG POST heading, oversized post number, 'blog post' as the main title, large centered 'blog post' label",
+      "prompt": "Editorial 16:9 Australian online pokies blog thumbnail. MAIN HEADLINE: \"BLOG POST 10\" — big bold white or gold sans-serif capitals CENTERED in the MIDDLE of the image, dominating the frame, slight dark shadow, perfectly legible. In the TOP-LEFT corner ONLY, add a SMALL \"Blog Post 10\" tag in a tiny muted font, roughly one quarter of the headline height — it must NOT be the main text. Style: deep charcoal-brown base with gold/amber accents around hue 110 degrees, warm vibrant casino premium mood, premium dark casino mood, subtle chips and reels. No site logo, no white box. The description headline is by far the largest text; the \"Blog Post 10\" tag stays small in the corner."
+    },
+    {
+      "id": "blogcard_blog-post-11",
+      "filename": "assets/blog-cards/blog-post-11.jpg",
+      "path_ref": "blog-post-11.html",
+      "logo_placement": "bottom-left",
+      "title_text": "Blog Post 11",
+      "negative_prompt": "third-party casino logos, real operator brand marks, sports team logos, celebrity likeness, minors, children, guaranteed-win text, 'risk-free' text, official government flags, watermark, blurry, low-res, distorted or extra garbled letters, blurry text, unreadable letters, giant BLOG POST heading, oversized post number, 'blog post' as the main title, large centered 'blog post' label",
+      "prompt": "Editorial 16:9 Australian online pokies blog thumbnail. MAIN HEADLINE: \"BLOG POST 11\" — big bold white or gold sans-serif capitals CENTERED in the MIDDLE of the image, dominating the frame, slight dark shadow, perfectly legible. In the TOP-LEFT corner ONLY, add a SMALL \"Blog Post 11\" tag in a tiny muted font, roughly one quarter of the headline height — it must NOT be the main text. Style: deep charcoal-brown base with gold/amber accents around hue 110 degrees, warm vibrant casino premium mood, premium dark casino mood, subtle chips and reels. No site logo, no white box. The description headline is by far the largest text; the \"Blog Post 11\" tag stays small in the corner."
+    },
+    {
+      "id": "blogcard_blog-post-12",
+      "filename": "assets/blog-cards/blog-post-12.jpg",
+      "path_ref": "blog-post-12.html",
+      "logo_placement": "bottom-left",
+      "title_text": "Blog Post 12",
+      "negative_prompt": "third-party casino logos, real operator brand marks, sports team logos, celebrity likeness, minors, children, guaranteed-win text, 'risk-free' text, official government flags, watermark, blurry, low-res, distorted or extra garbled letters, blurry text, unreadable letters, giant BLOG POST heading, oversized post number, 'blog post' as the main title, large centered 'blog post' label",
+      "prompt": "Editorial 16:9 Australian online pokies blog thumbnail. MAIN HEADLINE: \"BLOG POST 12\" — big bold white or gold sans-serif capitals CENTERED in the MIDDLE of the image, dominating the frame, slight dark shadow, perfectly legible. In the TOP-LEFT corner ONLY, add a SMALL \"Blog Post 12\" tag in a tiny muted font, roughly one quarter of the headline height — it must NOT be the main text. Style: deep charcoal-brown base with gold/amber accents around hue 110 degrees, warm vibrant casino premium mood, premium dark casino mood, subtle chips and reels. No site logo, no white box. The description headline is by far the largest text; the \"Blog Post 12\" tag stays small in the corner."
+    },
+    {
+      "id": "blogcard_blog-post-13",
+      "filename": "assets/blog-cards/blog-post-13.jpg",
+      "path_ref": "blog-post-13.html",
+      "logo_placement": "bottom-left",
+      "title_text": "Blog Post 13",
+      "negative_prompt": "third-party casino logos, real operator brand marks, sports team logos, celebrity likeness, minors, children, guaranteed-win text, 'risk-free' text, official government flags, watermark, blurry, low-res, distorted or extra garbled letters, blurry text, unreadable letters, giant BLOG POST heading, oversized post number, 'blog post' as the main title, large centered 'blog post' label",
+      "prompt": "Editorial 16:9 Australian online pokies blog thumbnail. MAIN HEADLINE: \"BLOG POST 13\" — big bold white or gold sans-serif capitals CENTERED in the MIDDLE of the image, dominating the frame, slight dark shadow, perfectly legible. In the TOP-LEFT corner ONLY, add a SMALL \"Blog Post 13\" tag in a tiny muted font, roughly one quarter of the headline height — it must NOT be the main text. Style: deep charcoal-brown base with gold/amber accents around hue 110 degrees, warm vibrant casino premium mood, premium dark casino mood, subtle chips and reels. No site logo, no white box. The description headline is by far the largest text; the \"Blog Post 13\" tag stays small in the corner."
+    },
+    {
+      "id": "blogcard_blog-post-14",
+      "filename": "assets/blog-cards/blog-post-14.jpg",
+      "path_ref": "blog-post-14.html",
+      "logo_placement": "bottom-left",
+      "title_text": "Blog Post 14",
+      "negative_prompt": "third-party casino logos, real operator brand marks, sports team logos, celebrity likeness, minors, children, guaranteed-win text, 'risk-free' text, official government flags, watermark, blurry, low-res, distorted or extra garbled letters, blurry text, unreadable letters, giant BLOG POST heading, oversized post number, 'blog post' as the main title, large centered 'blog post' label",
+      "prompt": "Editorial 16:9 Australian online pokies blog thumbnail. MAIN HEADLINE: \"BLOG POST 14\" — big bold white or gold sans-serif capitals CENTERED in the MIDDLE of the image, dominating the frame, slight dark shadow, perfectly legible. In the TOP-LEFT corner ONLY, add a SMALL \"Blog Post 14\" tag in a tiny muted font, roughly one quarter of the headline height — it must NOT be the main text. Style: deep charcoal-brown base with gold/amber accents around hue 110 degrees, warm vibrant casino premium mood, premium dark casino mood, subtle chips and reels. No site logo, no white box. The description headline is by far the largest text; the \"Blog Post 14\" tag stays small in the corner."
+    }
+  ],
+  "asset_pipeline_notes": [
+    "Generate logo.png first (transparent).",
+    "Generate each banner with the logo described in-prompt, OR composite logo.png into the bottom-left safe zone (~12% width) after render with Pillow.",
+    "Do NOT place third-party casino/operator brand marks on any art.",
+    "No minors, no guaranteed-win lettering, no fake licences."
+  ]
+}

@@ -2,10 +2,10 @@
   "version": "2026.1",
   "locale": "en-AU",
   "market": "Australia",
-  "generated_at": "2026-08-07T05:21:57.304424+00:00",
+  "generated_at": "2026-08-09T03:19:55.376559+00:00",
   "source": "grok_research",
-  "seed": "05335467a024",
-  "mode": "seo",
+  "seed": "c89c52cf7feb",
+  "mode": "unique",
   "engines_considered": [
     "Google AU",
     "Bing",
@@ -26,172 +26,159 @@
     "hold and win free spins",
     "best free chips australia 2026"
   ],
-  "primary_market_keyword": "free spins no deposit australia",
+  "primary_market_keyword": "free chips no deposit australia 2026",
   "secondary_market_keywords": [
-    "free chips no deposit",
-    "free credits no deposit casino",
-    "free spins no deposit casino",
-    "online pokies australia free chips",
-    "payid casino australia",
-    "high rtp pokies australia",
-    "megaways free spins australia",
-    "hold and win free spins",
-    "best free chips australia 2026",
-    "no deposit free credits australia"
+    "free spins no deposit australia",
+    "free credits no deposit casino australia",
+    "online pokies australia free chips payid",
+    "no deposit free spins megaways australia",
+    "high rtp pokies australia payid",
+    "hold and win free spins australia",
+    "best free chips no deposit pokies 2026"
   ],
   "people_also_ask": [
-    "how to claim free spins no deposit pokies australia 2026",
-    "are payid no deposit bonuses legit",
-    "highest rtp megaways slots with free chips",
-    "can i get free credits without deposit on hold and win",
-    "best australian payid casinos for 77 free spins"
+    "how do i claim free chips no deposit australia",
+    "are free spins no deposit legal for australian players",
+    "what payid casinos offer no deposit bonuses 2026",
+    "best high rtp megaways pokies with free spins",
+    "how long do free credits last at australian online casinos"
   ],
   "related_searches": [
-    "free chips no deposit pokies",
-    "payid free spins no deposit",
-    "megaways hold and win australia",
-    "high rtp online pokies free credits",
-    "77 spins no deposit 2026",
-    "no deposit bonus codes australia"
+    "free chips australia payid instant",
+    "megaways free spins no deposit 2026",
+    "77 free spins no deposit pokies australia",
+    "hold and win bonus australia payid",
+    "high rtp online pokies no deposit free credits"
   ],
   "intent_clusters": {
     "informational": [
-      "how free spins no deposit work in australia",
-      "rtp explained for megaways pokies",
-      "payid deposit times australia"
+      "how free chips no deposit work australia",
+      "payid casino deposit guide 2026"
     ],
     "transactional": [
-      "claim free chips no deposit now",
-      "best payid casinos with hold and win",
-      "77 free spins australia sign up"
+      "claim free spins no deposit now",
+      "best payid pokies australia"
     ],
-    "navigational": [
-      "list of high rtp pokies with free credits",
-      "australian megaways sites accepting payid"
+    "comparative": [
+      "high rtp vs megaways free spins",
+      "hold and win vs standard pokies bonuses"
     ]
   },
   "competitor_gaps": [
-    "lack of 2026 updated payid processing guides",
-    "no clear hold and win free spins comparison tables",
-    "missing australian rtp verification steps for megaways",
-    "outdated no deposit terms for free chips"
+    "limited 2026 updated payid instant withdrawal info",
+    "few guides covering 77 spins no deposit long tails",
+    "missing australian player trust verification steps for free chips",
+    "no clear high rtp megaways comparison tables with payid"
   ],
   "information_gain_hooks": [
-    "2026 payid instant withdrawal changes",
-    "new megaways rtp audits for australian players",
-    "how hold and win bonus rounds stack with free spins",
-    "real examples of 77 spins payout timelines"
+    "2026 updated list of payid supported no deposit offers",
+    "real australian player experiences with hold and win free spins",
+    "how to verify casino licence before claiming free chips"
   ],
   "trust_signals_required": [
-    "australian gambling commission references",
-    "payid verified payment proof",
-    "independent rtp testing links",
-    "clear 2026 terms and conditions",
-    "player withdrawal screenshots"
+    "australian licence verification",
+    "payid instant deposit proof",
+    "2026 bonus terms update",
+    "player review aggregation from au forums"
   ],
   "topic_keywords": {
     "free-chips": {
       "primary": "free chips no deposit australia 2026",
       "secondary": [
-        "free chips pokies",
-        "no deposit free credits"
+        "free chips payid pokies",
+        "claim free chips no deposit"
       ],
-      "intent": "claim and play",
-      "angle": "step by step claiming guide",
-      "gaps": [
-        "updated 2026 expiry rules"
-      ]
+      "intent": "transactional",
+      "angle": "step by step claim guide",
+      "gaps": "missing payid instant options"
     },
     "megawin": {
       "primary": "megaways free spins australia",
       "secondary": [
-        "megaways no deposit",
-        "high win megaways"
+        "megaways no deposit 2026",
+        "high rtp megaways pokies"
       ],
-      "intent": "find high payout slots",
+      "intent": "comparative",
       "angle": "rtp and volatility breakdown",
-      "gaps": [
-        "2026 new megaways releases"
-      ]
+      "gaps": "no payid filtered lists"
     },
     "hold-win": {
-      "primary": "hold and win free spins",
+      "primary": "hold and win free spins australia",
       "secondary": [
-        "hold and win pokies payid",
-        "free credits hold and win"
+        "hold and win no deposit pokies",
+        "best hold and win 2026"
       ],
-      "intent": "bonus round strategy",
-      "angle": "how hold and win stacks with free chips",
-      "gaps": [
-        "australian payout examples"
-      ]
+      "intent": "informational",
+      "angle": "bonus mechanic explained",
+      "gaps": "few australian payid examples"
     },
     "megaways": {
-      "primary": "megaways free spins no deposit",
+      "primary": "megaways free spins no deposit australia",
       "secondary": [
-        "megaways high rtp australia",
-        "megaways payid casino"
+        "megaways payid casino",
+        "77 megaways spins"
       ],
-      "intent": "discover new slots",
-      "angle": "best megaways for free spins",
-      "gaps": [
-        "comparison vs hold and win"
-      ]
+      "intent": "transactional",
+      "angle": "2026 bonus hunting",
+      "gaps": "outdated 2025 results"
     },
     "77-spins": {
       "primary": "77 free spins no deposit australia",
       "secondary": [
-        "77 spins payid",
-        "77 spins pokies"
+        "77 spins payid pokies",
+        "free 77 spins 2026"
       ],
-      "intent": "quick sign up bonus",
-      "angle": "terms and wagering explained",
-      "gaps": [
-        "2026 eligible sites list"
-      ]
+      "intent": "transactional",
+      "angle": "exact match long tail",
+      "gaps": "rarely covered in top results"
     },
     "high-rtp": {
-      "primary": "high rtp pokies australia",
+      "primary": "high rtp pokies australia payid",
       "secondary": [
-        "high rtp free chips",
-        "rtp megaways no deposit"
+        "best rtp no deposit free chips",
+        "high rtp megaways 2026"
       ],
-      "intent": "choose better paying games",
-      "angle": "verified rtp percentages 2026",
-      "gaps": [
-        "live audit sources"
-      ]
+      "intent": "comparative",
+      "angle": "data driven rtp table",
+      "gaps": "no payid high rtp filters"
     },
     "payid": {
-      "primary": "payid casino australia free spins",
+      "primary": "payid casino australia free chips",
       "secondary": [
-        "payid no deposit bonus",
-        "payid free chips pokies"
+        "payid no deposit pokies",
+        "instant payid free spins"
       ],
-      "intent": "fast banking",
-      "angle": "instant payid deposits and withdrawals",
-      "gaps": [
-        "fee free 2026 options"
-      ]
+      "intent": "transactional",
+      "angle": "speed and safety focus",
+      "gaps": "trust and verification missing"
     }
   },
   "blog_topic_keywords": {
-    "how-to-claim": "step by step free spins no deposit with payid",
-    "rtp-guide": "high rtp megaways and hold and win explained",
-    "comparison": "77 spins vs free chips australia 2026",
-    "safety": "safe payid pokies no deposit bonuses"
+    "how to claim free chips no deposit with payid australia 2026": [
+      "step by step",
+      "verification tips"
+    ],
+    "best high rtp megaways pokies with free spins payid": [
+      "comparison table",
+      "2026 updates"
+    ],
+    "hold and win vs 77 spins no deposit australia": [
+      "mechanics explained",
+      "player intent match"
+    ]
   },
   "title_patterns": [
-    "Best Free Spins No Deposit Australia 2026 PayID Guide",
-    "{keyword} Pokies with High RTP and Hold and Win",
-    "How to Claim 77 Free Spins No Deposit Australia",
-    "Top Megaways Free Chips No Deposit PayID Casinos 2026"
+    "free chips no deposit australia 2026 payid guide",
+    "best free spins no deposit pokies with high rtp 2026",
+    "how to claim 77 free spins australia payid",
+    "megaways hold and win free credits no deposit 2026",
+    "high rtp online pokies australia free chips payid"
   ],
   "image_prompt_terms": {
-    "free-chips": "australian player claiming free chips on mobile pokies screen",
-    "megawin": "megaways slot reels spinning with free spins counter",
-    "hold-win": "hold and win bonus round with coin symbols australia",
-    "payid": "payid instant transfer confirmation on casino app"
+    "free-chips": "australian poker chips on phone screen with payid logo 2026",
+    "megawin": "megaways slot reels spinning with free spins counter australia",
+    "hold-win": "hold and win bonus round on mobile pokies interface",
+    "payid": "payid instant transfer confirmation screen for casino deposit"
   },
   "notes": "Simulated multi-engine AU research for pipeline continuity. When Grok API is available, deep_keyword_research upgrades this object with live synthesis."
 }

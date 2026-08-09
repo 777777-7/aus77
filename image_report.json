@@ -1,0 +1,715 @@
+{
+  "logo": {
+    "ok": true,
+    "path": "C:\\Users\\User\\OneDrive\\final ai product\\ai agents 1234\\generated_sites\\site_c89c52cf7feb\\assets\\logo.png",
+    "model": "grok-imagine-image-quality",
+    "source": "b64",
+    "transparency": "whitebox-removed"
+  },
+  "banners": [
+    {
+      "id": "explore_banner_1",
+      "ok": true,
+      "path": "C:\\Users\\User\\OneDrive\\final ai product\\ai agents 1234\\generated_sites\\site_c89c52cf7feb\\assets\\banners\\explore-01.jpg",
+      "model": "grok-imagine-image-quality",
+      "source": "b64",
+      "composited": false,
+      "composite_skipped": "theme_title_on_image"
+    },
+    {
+      "id": "explore_banner_2",
+      "ok": true,
+      "path": "C:\\Users\\User\\OneDrive\\final ai product\\ai agents 1234\\generated_sites\\site_c89c52cf7feb\\assets\\banners\\explore-02.jpg",
+      "model": "grok-imagine-image-quality",
+      "source": "b64",
+      "composited": false,
+      "composite_skipped": "theme_title_on_image"
+    },
+    {
+      "id": "page_banner_freecredit88-aus",
+      "ok": true,
+      "path": "C:\\Users\\User\\OneDrive\\final ai product\\ai agents 1234\\generated_sites\\site_c89c52cf7feb\\assets\\banners\\freecredit88-aus.jpg",
+      "model": "grok-imagine-image-quality",
+      "source": "b64",
+      "composited": false,
+      "composite_skipped": "theme_title_on_image"
+    },
+    {
+      "id": "page_banner_megawin7-au",
+      "ok": true,
+      "path": "C:\\Users\\User\\OneDrive\\final ai product\\ai agents 1234\\generated_sites\\site_c89c52cf7feb\\assets\\banners\\megawin7-au.jpg",
+      "model": "grok-imagine-image-quality",
+      "source": "b64",
+      "composited": false,
+      "composite_skipped": "theme_title_on_image"
+    },
+    {
+      "id": "page_banner_holdcoin33-free",
+      "ok": true,
+      "path": "C:\\Users\\User\\OneDrive\\final ai product\\ai agents 1234\\generated_sites\\site_c89c52cf7feb\\assets\\banners\\holdcoin33-free.jpg",
+      "model": "grok-imagine-image-quality",
+      "source": "b64",
+      "composited": false,
+      "composite_skipped": "theme_title_on_image"
+    },
+    {
+      "id": "page_banner_megaways18-au",
+      "ok": true,
+      "path": "C:\\Users\\User\\OneDrive\\final ai product\\ai agents 1234\\generated_sites\\site_c89c52cf7feb\\assets\\banners\\megaways18-au.jpg",
+      "model": "grok-imagine-image-quality",
+      "source": "b64",
+      "composited": false,
+      "composite_skipped": "theme_title_on_image"
+    },
+    {
+      "id": "page_banner_freespin66-aus",
+      "ok": true,
+      "path": "C:\\Users\\User\\OneDrive\\final ai product\\ai agents 1234\\generated_sites\\site_c89c52cf7feb\\assets\\banners\\freespin66-aus.jpg",
+      "model": "grok-imagine-image-quality",
+      "source": "b64",
+      "composited": false,
+      "composite_skipped": "theme_title_on_image"
+    },
+    {
+      "id": "page_banner_bestrtp69-aus",
+      "ok": true,
+      "path": "C:\\Users\\User\\OneDrive\\final ai product\\ai agents 1234\\generated_sites\\site_c89c52cf7feb\\assets\\banners\\bestrtp69-aus.jpg",
+      "model": "grok-imagine-image-quality",
+      "source": "b64",
+      "composited": false,
+      "composite_skipped": "theme_title_on_image"
+    },
+    {
+      "id": "page_banner_ozpayid22",
+      "ok": true,
+      "path": "C:\\Users\\User\\OneDrive\\final ai product\\ai agents 1234\\generated_sites\\site_c89c52cf7feb\\assets\\banners\\ozpayid22.jpg",
+      "model": "grok-imagine-image-quality",
+      "source": "b64",
+      "composited": false,
+      "composite_skipped": "theme_title_on_image"
+    },
+    {
+      "id": "blog_hub",
+      "ok": true,
+      "path": "C:\\Users\\User\\OneDrive\\final ai product\\ai agents 1234\\generated_sites\\site_c89c52cf7feb\\assets\\banners\\blog.jpg",
+      "model": "grok-imagine-image-quality",
+      "source": "b64",
+      "composited": false,
+      "composite_skipped": "theme_title_on_image"
+    },
+    {
+      "id": "blogcat_blog-top-pokies",
+      "ok": true,
+      "path": "C:\\Users\\User\\OneDrive\\final ai product\\ai agents 1234\\generated_sites\\site_c89c52cf7feb\\assets\\banners\\blog-top-pokies.jpg",
+      "model": "grok-imagine-image-quality",
+      "source": "b64",
+      "composited": false,
+      "composite_skipped": "theme_title_on_image"
+    },
+    {
+      "id": "blogcat_blog-bonus-guides",
+      "ok": true,
+      "path": "C:\\Users\\User\\OneDrive\\final ai product\\ai agents 1234\\generated_sites\\site_c89c52cf7feb\\assets\\banners\\blog-bonus-guides.jpg",
+      "model": "grok-imagine-image-quality",
+      "source": "b64",
+      "composited": false,
+      "composite_skipped": "theme_title_on_image"
+    },
+    {
+      "id": "blogcat_blog-fast-cashouts",
+      "ok": true,
+      "path": "C:\\Users\\User\\OneDrive\\final ai product\\ai agents 1234\\generated_sites\\site_c89c52cf7feb\\assets\\banners\\blog-fast-cashouts.jpg",
+      "model": "grok-imagine-image-quality",
+      "source": "b64",
+      "composited": false,
+      "composite_skipped": "theme_title_on_image"
+    },
+    {
+      "id": "blogcat_blog-winning-tips",
+      "ok": true,
+      "path": "C:\\Users\\User\\OneDrive\\final ai product\\ai agents 1234\\generated_sites\\site_c89c52cf7feb\\assets\\banners\\blog-winning-tips.jpg",
+      "model": "grok-imagine-image-quality",
+      "source": "b64",
+      "composited": false,
+      "composite_skipped": "theme_title_on_image"
+    },
+    {
+      "id": "blogcat_blog-promo-guides",
+      "ok": true,
+      "path": "C:\\Users\\User\\OneDrive\\final ai product\\ai agents 1234\\generated_sites\\site_c89c52cf7feb\\assets\\banners\\blog-promo-guides.jpg",
+      "model": "grok-imagine-image-quality",
+      "source": "b64",
+      "composited": false,
+      "composite_skipped": "theme_title_on_image"
+    },
+    {
+      "id": "page_banner_freecredit777-aus",
+      "ok": true,
+      "path": "C:\\Users\\User\\OneDrive\\final ai product\\ai agents 1234\\generated_sites\\site_c89c52cf7feb\\assets\\banners\\freecredit777-aus.jpg",
+      "model": "grok-imagine-image-quality",
+      "source": "b64",
+      "composited": false,
+      "composite_skipped": "theme_title_on_image"
+    },
+    {
+      "id": "page_banner_megawin33-au",
+      "ok": true,
+      "path": "C:\\Users\\User\\OneDrive\\final ai product\\ai agents 1234\\generated_sites\\site_c89c52cf7feb\\assets\\banners\\megawin33-au.jpg",
+      "model": "grok-imagine-image-quality",
+      "source": "b64",
+      "composited": false,
+      "composite_skipped": "theme_title_on_image"
+    },
+    {
+      "id": "page_banner_lockrespin88",
+      "ok": true,
+      "path": "C:\\Users\\User\\OneDrive\\final ai product\\ai agents 1234\\generated_sites\\site_c89c52cf7feb\\assets\\banners\\lockrespin88.jpg",
+      "model": "grok-imagine-image-quality",
+      "source": "b64",
+      "composited": false,
+      "composite_skipped": "theme_title_on_image"
+    },
+    {
+      "id": "page_banner_ausmegaways44",
+      "ok": true,
+      "path": "C:\\Users\\User\\OneDrive\\final ai product\\ai agents 1234\\generated_sites\\site_c89c52cf7feb\\assets\\banners\\ausmegaways44.jpg",
+      "model": "grok-imagine-image-quality",
+      "source": "b64",
+      "composited": false,
+      "composite_skipped": "theme_title_on_image"
+    },
+    {
+      "id": "page_banner_nodepspin22",
+      "ok": true,
+      "path": "C:\\Users\\User\\OneDrive\\final ai product\\ai agents 1234\\generated_sites\\site_c89c52cf7feb\\assets\\banners\\nodepspin22.jpg",
+      "model": "grok-imagine-image-quality",
+      "source": "b64",
+      "composited": false,
+      "composite_skipped": "theme_title_on_image"
+    },
+    {
+      "id": "page_banner_bestrtp44-aus",
+      "ok": true,
+      "path": "C:\\Users\\User\\OneDrive\\final ai product\\ai agents 1234\\generated_sites\\site_c89c52cf7feb\\assets\\banners\\bestrtp44-aus.jpg",
+      "model": "grok-imagine-image-quality",
+      "source": "b64",
+      "composited": false,
+      "composite_skipped": "theme_title_on_image"
+    },
+    {
+      "id": "page_banner_payid-withdraw44",
+      "ok": true,
+      "path": "C:\\Users\\User\\OneDrive\\final ai product\\ai agents 1234\\generated_sites\\site_c89c52cf7feb\\assets\\banners\\payid-withdraw44.jpg",
+      "model": "grok-imagine-image-quality",
+      "source": "b64",
+      "composited": false,
+      "composite_skipped": "theme_title_on_image"
+    }
+  ],
+  "blog_cards": [
+    {
+      "id": "blogcard_blog-post-1",
+      "ok": true,
+      "path": "C:\\Users\\User\\OneDrive\\final ai product\\ai agents 1234\\generated_sites\\site_c89c52cf7feb\\assets\\blog-cards\\blog-post-1.jpg",
+      "model": "grok-imagine-image-quality",
+      "source": "b64",
+      "composited": false,
+      "composite_skipped": "theme_title_on_image"
+    },
+    {
+      "id": "blogcard_blog-post-2",
+      "ok": true,
+      "path": "C:\\Users\\User\\OneDrive\\final ai product\\ai agents 1234\\generated_sites\\site_c89c52cf7feb\\assets\\blog-cards\\blog-post-2.jpg",
+      "model": "grok-imagine-image-quality",
+      "source": "b64",
+      "composited": false,
+      "composite_skipped": "theme_title_on_image"
+    },
+    {
+      "id": "blogcard_blog-post-3",
+      "ok": true,
+      "path": "C:\\Users\\User\\OneDrive\\final ai product\\ai agents 1234\\generated_sites\\site_c89c52cf7feb\\assets\\blog-cards\\blog-post-3.jpg",
+      "model": "grok-imagine-image-quality",
+      "source": "b64",
+      "composited": false,
+      "composite_skipped": "theme_title_on_image"
+    },
+    {
+      "id": "blogcard_blog-post-4",
+      "ok": true,
+      "path": "C:\\Users\\User\\OneDrive\\final ai product\\ai agents 1234\\generated_sites\\site_c89c52cf7feb\\assets\\blog-cards\\blog-post-4.jpg",
+      "model": "grok-imagine-image-quality",
+      "source": "b64",
+      "composited": false,
+      "composite_skipped": "theme_title_on_image"
+    },
+    {
+      "id": "blogcard_blog-post-5",
+      "ok": true,
+      "path": "C:\\Users\\User\\OneDrive\\final ai product\\ai agents 1234\\generated_sites\\site_c89c52cf7feb\\assets\\blog-cards\\blog-post-5.jpg",
+      "model": "grok-imagine-image-quality",
+      "source": "b64",
+      "composited": false,
+      "composite_skipped": "theme_title_on_image"
+    },
+    {
+      "id": "blogcard_blog-post-6",
+      "ok": true,
+      "path": "C:\\Users\\User\\OneDrive\\final ai product\\ai agents 1234\\generated_sites\\site_c89c52cf7feb\\assets\\blog-cards\\blog-post-6.jpg",
+      "model": "grok-imagine-image-quality",
+      "source": "b64",
+      "composited": false,
+      "composite_skipped": "theme_title_on_image"
+    },
+    {
+      "id": "blogcard_blog-post-7",
+      "ok": true,
+      "path": "C:\\Users\\User\\OneDrive\\final ai product\\ai agents 1234\\generated_sites\\site_c89c52cf7feb\\assets\\blog-cards\\blog-post-7.jpg",
+      "model": "grok-imagine-image-quality",
+      "source": "b64",
+      "composited": false,
+      "composite_skipped": "theme_title_on_image"
+    },
+    {
+      "id": "blogcard_blog-post-8",
+      "ok": true,
+      "path": "C:\\Users\\User\\OneDrive\\final ai product\\ai agents 1234\\generated_sites\\site_c89c52cf7feb\\assets\\blog-cards\\blog-post-8.jpg",
+      "model": "grok-imagine-image-quality",
+      "source": "b64",
+      "composited": false,
+      "composite_skipped": "theme_title_on_image"
+    },
+    {
+      "id": "blogcard_blog-post-9",
+      "ok": true,
+      "path": "C:\\Users\\User\\OneDrive\\final ai product\\ai agents 1234\\generated_sites\\site_c89c52cf7feb\\assets\\blog-cards\\blog-post-9.jpg",
+      "model": "grok-imagine-image-quality",
+      "source": "b64",
+      "composited": false,
+      "composite_skipped": "theme_title_on_image"
+    },
+    {
+      "id": "blogcard_blog-post-10",
+      "ok": true,
+      "path": "C:\\Users\\User\\OneDrive\\final ai product\\ai agents 1234\\generated_sites\\site_c89c52cf7feb\\assets\\blog-cards\\blog-post-10.jpg",
+      "model": "grok-imagine-image-quality",
+      "source": "b64",
+      "composited": false,
+      "composite_skipped": "theme_title_on_image"
+    },
+    {
+      "id": "blogcard_blog-post-11",
+      "ok": true,
+      "path": "C:\\Users\\User\\OneDrive\\final ai product\\ai agents 1234\\generated_sites\\site_c89c52cf7feb\\assets\\blog-cards\\blog-post-11.jpg",
+      "model": "grok-imagine-image-quality",
+      "source": "b64",
+      "composited": false,
+      "composite_skipped": "theme_title_on_image"
+    },
+    {
+      "id": "blogcard_blog-post-12",
+      "ok": true,
+      "path": "C:\\Users\\User\\OneDrive\\final ai product\\ai agents 1234\\generated_sites\\site_c89c52cf7feb\\assets\\blog-cards\\blog-post-12.jpg",
+      "model": "grok-imagine-image-quality",
+      "source": "b64",
+      "composited": false,
+      "composite_skipped": "theme_title_on_image"
+    },
+    {
+      "id": "blogcard_blog-post-13",
+      "ok": true,
+      "path": "C:\\Users\\User\\OneDrive\\final ai product\\ai agents 1234\\generated_sites\\site_c89c52cf7feb\\assets\\blog-cards\\blog-post-13.jpg",
+      "model": "grok-imagine-image-quality",
+      "source": "b64",
+      "composited": false,
+      "composite_skipped": "theme_title_on_image"
+    },
+    {
+      "id": "blogcard_blog-post-14",
+      "ok": true,
+      "path": "C:\\Users\\User\\OneDrive\\final ai product\\ai agents 1234\\generated_sites\\site_c89c52cf7feb\\assets\\blog-cards\\blog-post-14.jpg",
+      "model": "grok-imagine-image-quality",
+      "source": "b64",
+      "composited": false,
+      "composite_skipped": "theme_title_on_image"
+    }
+  ],
+  "guides": [
+    {
+      "id": "guide_1",
+      "ok": true,
+      "path": "C:\\Users\\User\\OneDrive\\final ai product\\ai agents 1234\\generated_sites\\site_c89c52cf7feb\\assets\\banners\\guide-01.jpg",
+      "model": "grok-imagine-image-quality",
+      "source": "b64"
+    },
+    {
+      "id": "guide_2",
+      "ok": true,
+      "path": "C:\\Users\\User\\OneDrive\\final ai product\\ai agents 1234\\generated_sites\\site_c89c52cf7feb\\assets\\banners\\guide-02.jpg",
+      "model": "grok-imagine-image-quality",
+      "source": "b64"
+    },
+    {
+      "id": "guide_3",
+      "ok": true,
+      "path": "C:\\Users\\User\\OneDrive\\final ai product\\ai agents 1234\\generated_sites\\site_c89c52cf7feb\\assets\\banners\\guide-03.jpg",
+      "model": "grok-imagine-image-quality",
+      "source": "b64"
+    },
+    {
+      "id": "guide_4",
+      "ok": true,
+      "path": "C:\\Users\\User\\OneDrive\\final ai product\\ai agents 1234\\generated_sites\\site_c89c52cf7feb\\assets\\banners\\guide-04.jpg",
+      "model": "grok-imagine-image-quality",
+      "source": "b64"
+    },
+    {
+      "id": "guide_5",
+      "ok": true,
+      "path": "C:\\Users\\User\\OneDrive\\final ai product\\ai agents 1234\\generated_sites\\site_c89c52cf7feb\\assets\\banners\\guide-05.jpg",
+      "model": "grok-imagine-image-quality",
+      "source": "b64"
+    },
+    {
+      "id": "guide_6",
+      "ok": true,
+      "path": "C:\\Users\\User\\OneDrive\\final ai product\\ai agents 1234\\generated_sites\\site_c89c52cf7feb\\assets\\banners\\guide-06.jpg",
+      "model": "grok-imagine-image-quality",
+      "source": "b64"
+    },
+    {
+      "id": "guide_7",
+      "ok": true,
+      "path": "C:\\Users\\User\\OneDrive\\final ai product\\ai agents 1234\\generated_sites\\site_c89c52cf7feb\\assets\\banners\\guide-07.jpg",
+      "model": "grok-imagine-image-quality",
+      "source": "b64"
+    },
+    {
+      "id": "guide_8",
+      "ok": true,
+      "path": "C:\\Users\\User\\OneDrive\\final ai product\\ai agents 1234\\generated_sites\\site_c89c52cf7feb\\assets\\banners\\guide-08.jpg",
+      "model": "grok-imagine-image-quality",
+      "source": "b64"
+    }
+  ],
+  "generated": 45,
+  "skipped": 0,
+  "failed": 0,
+  "assets": [
+    {
+      "path": "assets/logo.png",
+      "kind": "logo",
+      "ok": true,
+      "skipped": false,
+      "error": null
+    },
+    {
+      "path": "assets/banners/explore-01.jpg",
+      "kind": "banner",
+      "ok": true,
+      "skipped": false,
+      "error": null
+    },
+    {
+      "path": "assets/banners/explore-02.jpg",
+      "kind": "banner",
+      "ok": true,
+      "skipped": false,
+      "error": null
+    },
+    {
+      "path": "assets/banners/freecredit88-aus.jpg",
+      "kind": "banner",
+      "ok": true,
+      "skipped": false,
+      "error": null
+    },
+    {
+      "path": "assets/banners/megawin7-au.jpg",
+      "kind": "banner",
+      "ok": true,
+      "skipped": false,
+      "error": null
+    },
+    {
+      "path": "assets/banners/holdcoin33-free.jpg",
+      "kind": "banner",
+      "ok": true,
+      "skipped": false,
+      "error": null
+    },
+    {
+      "path": "assets/banners/megaways18-au.jpg",
+      "kind": "banner",
+      "ok": true,
+      "skipped": false,
+      "error": null
+    },
+    {
+      "path": "assets/banners/freespin66-aus.jpg",
+      "kind": "banner",
+      "ok": true,
+      "skipped": false,
+      "error": null
+    },
+    {
+      "path": "assets/banners/bestrtp69-aus.jpg",
+      "kind": "banner",
+      "ok": true,
+      "skipped": false,
+      "error": null
+    },
+    {
+      "path": "assets/banners/ozpayid22.jpg",
+      "kind": "banner",
+      "ok": true,
+      "skipped": false,
+      "error": null
+    },
+    {
+      "path": "assets/banners/blog.jpg",
+      "kind": "banner",
+      "ok": true,
+      "skipped": false,
+      "error": null
+    },
+    {
+      "path": "assets/banners/blog-top-pokies.jpg",
+      "kind": "banner",
+      "ok": true,
+      "skipped": false,
+      "error": null
+    },
+    {
+      "path": "assets/banners/blog-bonus-guides.jpg",
+      "kind": "banner",
+      "ok": true,
+      "skipped": false,
+      "error": null
+    },
+    {
+      "path": "assets/banners/blog-fast-cashouts.jpg",
+      "kind": "banner",
+      "ok": true,
+      "skipped": false,
+      "error": null
+    },
+    {
+      "path": "assets/banners/blog-winning-tips.jpg",
+      "kind": "banner",
+      "ok": true,
+      "skipped": false,
+      "error": null
+    },
+    {
+      "path": "assets/banners/blog-promo-guides.jpg",
+      "kind": "banner",
+      "ok": true,
+      "skipped": false,
+      "error": null
+    },
+    {
+      "path": "assets/banners/freecredit777-aus.jpg",
+      "kind": "banner",
+      "ok": true,
+      "skipped": false,
+      "error": null
+    },
+    {
+      "path": "assets/banners/megawin33-au.jpg",
+      "kind": "banner",
+      "ok": true,
+      "skipped": false,
+      "error": null
+    },
+    {
+      "path": "assets/banners/lockrespin88.jpg",
+      "kind": "banner",
+      "ok": true,
+      "skipped": false,
+      "error": null
+    },
+    {
+      "path": "assets/banners/ausmegaways44.jpg",
+      "kind": "banner",
+      "ok": true,
+      "skipped": false,
+      "error": null
+    },
+    {
+      "path": "assets/banners/nodepspin22.jpg",
+      "kind": "banner",
+      "ok": true,
+      "skipped": false,
+      "error": null
+    },
+    {
+      "path": "assets/banners/bestrtp44-aus.jpg",
+      "kind": "banner",
+      "ok": true,
+      "skipped": false,
+      "error": null
+    },
+    {
+      "path": "assets/banners/payid-withdraw44.jpg",
+      "kind": "banner",
+      "ok": true,
+      "skipped": false,
+      "error": null
+    },
+    {
+      "path": "assets/banners/guide-01.jpg",
+      "kind": "guide",
+      "ok": true,
+      "skipped": false,
+      "error": null
+    },
+    {
+      "path": "assets/banners/guide-02.jpg",
+      "kind": "guide",
+      "ok": true,
+      "skipped": false,
+      "error": null
+    },
+    {
+      "path": "assets/banners/guide-03.jpg",
+      "kind": "guide",
+      "ok": true,
+      "skipped": false,
+      "error": null
+    },
+    {
+      "path": "assets/banners/guide-04.jpg",
+      "kind": "guide",
+      "ok": true,
+      "skipped": false,
+      "error": null
+    },
+    {
+      "path": "assets/banners/guide-05.jpg",
+      "kind": "guide",
+      "ok": true,
+      "skipped": false,
+      "error": null
+    },
+    {
+      "path": "assets/banners/guide-06.jpg",
+      "kind": "guide",
+      "ok": true,
+      "skipped": false,
+      "error": null
+    },
+    {
+      "path": "assets/banners/guide-07.jpg",
+      "kind": "guide",
+      "ok": true,
+      "skipped": false,
+      "error": null
+    },
+    {
+      "path": "assets/banners/guide-08.jpg",
+      "kind": "guide",
+      "ok": true,
+      "skipped": false,
+      "error": null
+    },
+    {
+      "path": "assets/blog-cards/blog-post-1.jpg",
+      "kind": "blog_card",
+      "ok": true,
+      "skipped": false,
+      "error": null
+    },
+    {
+      "path": "assets/blog-cards/blog-post-2.jpg",
+      "kind": "blog_card",
+      "ok": true,
+      "skipped": false,
+      "error": null
+    },
+    {
+      "path": "assets/blog-cards/blog-post-3.jpg",
+      "kind": "blog_card",
+      "ok": true,
+      "skipped": false,
+      "error": null
+    },
+    {
+      "path": "assets/blog-cards/blog-post-4.jpg",
+      "kind": "blog_card",
+      "ok": true,
+      "skipped": false,
+      "error": null
+    },
+    {
+      "path": "assets/blog-cards/blog-post-5.jpg",
+      "kind": "blog_card",
+      "ok": true,
+      "skipped": false,
+      "error": null
+    },
+    {
+      "path": "assets/blog-cards/blog-post-6.jpg",
+      "kind": "blog_card",
+      "ok": true,
+      "skipped": false,
+      "error": null
+    },
+    {
+      "path": "assets/blog-cards/blog-post-7.jpg",
+      "kind": "blog_card",
+      "ok": true,
+      "skipped": false,
+      "error": null
+    },
+    {
+      "path": "assets/blog-cards/blog-post-8.jpg",
+      "kind": "blog_card",
+      "ok": true,
+      "skipped": false,
+      "error": null
+    },
+    {
+      "path": "assets/blog-cards/blog-post-9.jpg",
+      "kind": "blog_card",
+      "ok": true,
+      "skipped": false,
+      "error": null
+    },
+    {
+      "path": "assets/blog-cards/blog-post-10.jpg",
+      "kind": "blog_card",
+      "ok": true,
+      "skipped": false,
+      "error": null
+    },
+    {
+      "path": "assets/blog-cards/blog-post-11.jpg",
+      "kind": "blog_card",
+      "ok": true,
+      "skipped": false,
+      "error": null
+    },
+    {
+      "path": "assets/blog-cards/blog-post-12.jpg",
+      "kind": "blog_card",
+      "ok": true,
+      "skipped": false,
+      "error": null
+    },
+    {
+      "path": "assets/blog-cards/blog-post-13.jpg",
+      "kind": "blog_card",
+      "ok": true,
+      "skipped": false,
+      "error": null
+    },
+    {
+      "path": "assets/blog-cards/blog-post-14.jpg",
+      "kind": "blog_card",
+      "ok": true,
+      "skipped": false,
+      "error": null
+    }
+  ]
+}

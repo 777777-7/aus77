@@ -1,11 +1,11 @@
-/* Agent 1 · warm dramatic subtle · hue=255° · tone=warm · radius=subtle · shadow=dramatic */
-@import url('https://fonts.googleapis.com/css2?family=Sora:wght@700&family=Sora:wght@400;650;700&display=swap');
+/* Agent 1 · warm vibrant casino · hue=110° · tone=warm · radius=generous · shadow=soft */
+@import url('https://fonts.googleapis.com/css2?family=Rubik:wght@700&family=Rubik:wght@400;650;700&display=swap');
 
 :root {
-  --accent-h: 255;
+  --accent-h: 110;
   --accent-s: 65%;
   --accent-l: 62%;
-  --bg-h: 275;
+  --bg-h: 130;
   --bg-s: 15%;
 
   --bg:            hsl(var(--bg-h), var(--bg-s), 5%);
@@ -26,25 +26,25 @@
   --danger:  #e88a7a;
 
   --shell: 100%;
-  --radius:     10px;
-  --radius-sm:  6px;
-  --radius-lg:  14px;
-  --font:       'Sora', 'Segoe UI', system-ui, sans-serif;
-  --font-body:  'Sora', 'Segoe UI', system-ui, sans-serif;
+  --radius:     22px;
+  --radius-sm:  14px;
+  --radius-lg:  32px;
+  --font:       'Rubik', 'Segoe UI', system-ui, sans-serif;
+  --font-body:  'Rubik', 'Segoe UI', system-ui, sans-serif;
   --fw-heading: 700;
   --fw-body:    400;
   --scale: 1.25;
 
-  --shadow-card: 0 8px 34px rgba(0,0,0,.5), 0 1px 0 hsla(var(--accent-h),var(--accent-s),85%,.08) inset;
-  --shadow-lift: 0 18px 44px rgba(0,0,0,.55), 0 0 32px hsla(var(--accent-h),var(--accent-s),60%,.22);
+  --shadow-card: 0 4px 20px rgba(0,0,0,.35), 0 1px 0 hsla(var(--accent-h),var(--accent-s),85%,.04) inset;
+  --shadow-lift: 0 8px 28px rgba(0,0,0,.42);
   --ease: cubic-bezier(.22, 1, .36, 1);
 
-  --s-1: 0.338rem;
-  --s-2: 0.675rem;
-  --s-3: 1.35rem;
-  --s-4: 2.025rem;
-  --s-5: 3.375rem;
-  --s-6: 5.4rem;
+  --s-1: 0.25rem;
+  --s-2: 0.5rem;
+  --s-3: 1.0rem;
+  --s-4: 1.5rem;
+  --s-5: 2.5rem;
+  --s-6: 4.0rem;
 }
 
 *, *::before, *::after { box-sizing: border-box; }
@@ -749,3 +749,85 @@ a:hover { color: var(--accent); }
 .page-num.is-active { background: var(--accent); color: hsl(var(--accent-h), 60%, 8%); border-color: var(--accent); }
 
 .cta-row { text-align: center; padding: var(--s-4) 0 var(--s-5); display: flex; flex-wrap: wrap; gap: 10px; justify-content: center; }
+
+/* ============ Mobile responsiveness (consolidated) ============ */
+@media (max-width: 860px) {
+  .banner-row { flex-wrap: wrap; }
+}
+@media (max-width: 720px) {
+  html, body { overflow-x: hidden; }          /* never allow sideways page scroll */
+  img { max-width: 100%; }
+  .banner-row { flex-direction: column; gap: 14px; }   /* stack claim / explore banners */
+  .banner-link { flex: 1 1 100%; }
+  .header-bar { flex-wrap: wrap; gap: 10px; row-gap: 8px; min-height: 0; padding-block: 10px; }
+  /* smaller logo on mobile — image logo (inline height:72px overridden) AND text logo */
+  .brand-logo img, .brand-logo__img, .site-header img[src*="logo"] { height: 38px !important; max-height: 40px !important; }
+  .brand-logo { font-size: 1.05rem !important; }
+  .btn--header { padding: 9px 14px; font-size: 13px; }
+  /* nav = exactly TWO horizontal lines, scroll sideways if it overflows */
+  .site-header .nav {
+    display: grid !important;
+    grid-auto-flow: column;
+    grid-template-rows: repeat(2, auto);
+    grid-auto-columns: max-content;
+    gap: 8px !important;
+    flex: 1 1 100%;
+    min-width: 0; width: 100%;
+    overflow-x: auto; overflow-y: hidden;
+    -webkit-overflow-scrolling: touch;
+    scrollbar-width: none;
+    padding-bottom: 4px;
+  }
+  .site-header .nav::-webkit-scrollbar { display: none; }
+  .nav__link { white-space: nowrap; }
+  /* keep wide content tables from breaking the layout */
+  .section table { display: block; width: 100%; max-width: 100%; overflow-x: auto; -webkit-overflow-scrolling: touch; }
+  .card .card__promos { grid-template-columns: 1fr 1fr !important; }
+}
+@media (max-width: 560px) {
+  .section { padding-block: var(--s-4); }
+  .hero { padding-block: var(--s-5) var(--s-3); }
+  .hero__title { font-size: clamp(26px, 8vw, 34px); }
+  .hero__actions { width: 100%; }
+  .hero__actions .btn { flex: 1 1 100%; }
+  .btn--primary { min-width: 0; width: 100%; }
+  .cta-row .btn { flex: 1 1 100%; }
+  .card .card__promos, .card .card__verdicts { grid-template-columns: 1fr !important; }
+  .mini-grid { gap: 12px; }
+}
+@media (max-width: 420px) {
+  .brand-logo img, .brand-logo__img, .site-header img[src*="logo"] { height: 34px !important; max-height: 36px !important; }
+  .brand-logo { font-size: 0.95rem !important; }
+  .nav__link { font-size: 12px; padding: 5px 10px !important; }
+}
+
+/* ============ UX / accessibility / crawl polish ============ */
+html { scroll-behavior: smooth; -webkit-text-size-adjust: 100%; }
+body { -webkit-font-smoothing: antialiased; text-rendering: optimizeLegibility; }
+/* long words / URLs must never force horizontal scroll */
+p, li, a, h1, h2, h3, .lede, .card__excerpt, .headline { overflow-wrap: break-word; word-break: break-word; }
+/* prevent layout shift: images reserve their box */
+img { height: auto; }
+/* sticky-header offset so in-page anchor jumps don't hide under the header */
+:target, [id] { scroll-margin-top: 88px; }
+/* visible keyboard focus (Google page-experience / a11y) */
+a:focus-visible, button:focus-visible, .btn:focus-visible, .nav__link:focus-visible, .acc__trigger:focus-visible {
+  outline: 2px solid var(--accent); outline-offset: 3px; border-radius: 4px;
+}
+/* skip-to-content link — hidden until focused */
+.skip-link {
+  position: absolute; left: 12px; top: -60px; z-index: 3000;
+  background: var(--accent); color: hsl(var(--accent-h,45), 60%, 8%);
+  padding: 10px 16px; border-radius: 8px; font-weight: 700; text-decoration: none;
+  transition: top .18s var(--ease);
+}
+.skip-link:focus { top: 12px; }
+/* comfortable minimum tap targets on touch devices */
+@media (hover: none) and (pointer: coarse) {
+  .btn, .nav__link, .page-num, .primary-nav a { min-height: 44px; display: inline-flex; align-items: center; }
+}
+/* respect users who ask for less motion */
+@media (prefers-reduced-motion: reduce) {
+  html { scroll-behavior: auto; }
+  *, *::before, *::after { animation-duration: .001ms !important; transition-duration: .001ms !important; }
+}
