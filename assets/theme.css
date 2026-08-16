@@ -765,21 +765,27 @@ a:hover { color: var(--accent); }
   .brand-logo { font-size: 1.05rem !important; }
   .btn--header { padding: 9px 14px; font-size: 13px; }
   /* nav = exactly TWO horizontal lines, scroll sideways if it overflows */
+  /* nav = tidy 3-across grid (9 links -> 3 rows), no sideways scroll */
   .site-header .nav {
     display: grid !important;
-    grid-auto-flow: column;
-    grid-template-rows: repeat(2, auto);
-    grid-auto-columns: max-content;
-    gap: 8px !important;
+    grid-template-columns: repeat(3, 1fr) !important;
+    grid-auto-flow: row !important;
+    grid-template-rows: none !important;
+    gap: 6px !important;
     flex: 1 1 100%;
     min-width: 0; width: 100%;
-    overflow-x: auto; overflow-y: hidden;
-    -webkit-overflow-scrolling: touch;
-    scrollbar-width: none;
-    padding-bottom: 4px;
+    overflow: visible !important;
+    padding-bottom: 0;
   }
-  .site-header .nav::-webkit-scrollbar { display: none; }
-  .nav__link { white-space: nowrap; }
+  .site-header .nav__link {
+    white-space: normal !important;
+    text-align: center;
+    font-size: 11px !important;
+    line-height: 1.15;
+    padding: 6px 6px !important;
+    min-height: 34px;
+    display: flex; align-items: center; justify-content: center;
+  }
   /* keep wide content tables from breaking the layout */
   .section table { display: block; width: 100%; max-width: 100%; overflow-x: auto; -webkit-overflow-scrolling: touch; }
   .card .card__promos { grid-template-columns: 1fr 1fr !important; }
@@ -857,4 +863,26 @@ a:focus-visible, button:focus-visible, .btn:focus-visible, .nav__link:focus-visi
 @media (max-width: 560px) {
   body { font-size: 13.5px; }
   .headline { font-size: clamp(18px, 5.4vw, 21px) !important; }
+}
+
+/* ===== Mobile hardening: no sideways scroll, comfy tap targets, cleaner rhythm ===== */
+html, body { max-width: 100%; overflow-x: hidden; }
+img, svg, video, iframe { max-width: 100%; height: auto; }
+@media (max-width: 720px) {
+  .shell, .shell--wide { padding-left: 14px !important; padding-right: 14px !important; }
+  /* comfortable tap targets (Google mobile-usability) */
+  .btn { min-height: 44px; display: inline-flex; align-items: center; justify-content: center; }
+  .nav__link { padding: 9px 12px !important; }
+  .acc__trigger { min-height: 48px; }
+  .chip { padding: 8px 12px; }
+  .header-bar { gap: 8px; row-gap: 8px; }
+  /* offer-card promo/verdict boxes read better stacked than squeezed 3-across */
+  .card__promos { grid-template-columns: repeat(2, minmax(0,1fr)) !important; }
+  /* keep long words/links from forcing horizontal scroll */
+  p, li, a, h1, h2, h3 { overflow-wrap: anywhere; word-break: break-word; }
+  /* blog post hero banner: cap height so it doesn't eat the whole screen */
+  #post-banner img { max-height: 46vh; object-fit: cover; }
+}
+@media (max-width: 420px) {
+  .card__promos { grid-template-columns: 1fr !important; }
 }
