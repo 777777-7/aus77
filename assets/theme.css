@@ -914,3 +914,34 @@ img, svg, video, iframe { max-width: 100%; height: auto; }
 .hero-banner img { display: block; width: 100% !important; height: 100% !important; object-fit: fill; border-radius: inherit; }
 /* every horizontal banner image stretches to fully fill its space (no gaps) */
 .banner-ph--img img { object-fit: fill !important; }
+
+/* highlighted lead-in keyword inside verdicts / content */
+.hl{color:#4dd0e1 !important;font-weight:700;}
+/* highlighted numbers / stats to catch the eye */
+.hl-num{color:#ffd24d !important;font-weight:700;}
+
+/* ===== Comfortable, readable content on phones ===== */
+@media (max-width: 720px) {
+  .money-seo-dense p, .home-seo-dense p, #home-long-seo p, #home-long-seo .lede,
+  .home-seo-dense .panel__body p, .money-seo-dense .lede,
+  .panel__body p, .panel__body li, .article-body p, .acc__panel, .acc__panel p {
+    font-size: 14px !important; line-height: 1.65 !important; margin: 0 0 12px !important;
+  }
+  .lede { font-size: 14.5px !important; line-height: 1.6 !important; }
+  .section .shell > p, .article-body { letter-spacing: .1px; }
+}
+
+/* ===== Sticky blog category chips (blog listing + category pages) ===== */
+.chips-sticky .site-header { position: static !important; }   /* let header scroll away so chips pin cleanly at the top */
+.blog-nav {
+  position: sticky; top: 0; z-index: 60;
+  background: var(--bg);
+  margin: 14px 0 16px; padding: 10px 6px;
+  box-shadow: 0 10px 18px -10px rgba(0,0,0,.6);
+  border-radius: 0 0 14px 14px;
+}
+@media (max-width: 720px) {
+  /* exactly 2 rows: 6 chips across 3 columns */
+  .blog-nav { display: grid !important; grid-template-columns: repeat(3, 1fr); gap: 8px; justify-content: stretch; padding: 8px 4px; }
+  .blog-nav a { text-align: center; font-size: 12px; padding: 8px 4px; white-space: nowrap; }
+}
